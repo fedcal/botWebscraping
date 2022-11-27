@@ -16,3 +16,7 @@ Vengono utilizzate le seguenti librerie:s
 - lxml
 
 https://www.youtube.com/watch?v=sBdmazo4coo
+
+# Collaborators
+
+- [AlessandroQDC](https://github.com/AlessandroQDC)
