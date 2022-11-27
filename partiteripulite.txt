@@ -1,0 +1,1112 @@
+Israel Youth League;08:50;Maccabi Ironi Kiryat Ata U19;Hapoel Umm al-Fahm U19;+0.2;2.75
+Israel Youth League;09:00;Hapoel Acre U19;Hapoel Herzliya U19;-0.5;2.5 
+Israel Youth League;09:00;Hapoel Haifa U19;Hapoel Tel Aviv U19;+0.2;2.75
+Israel Youth League;09:00;Hapoel Ramat Gan U19;Maccabi Petach Tikva U19;+0.5;2.25
+Romania Liga 2;09:00;CSM Politehnica Iasi;FK Csikszereda Miercurea Ciuc;-0.2;2.25
+Romania Liga 2;09:00;FC Unirea Constanta;Metaloglobus Bucuresti;+0.5;2.25
+Romania Liga 2;09:00;CSC 1599 Selimbar;FC Ripensia Timisoara;-0.5;2.25
+Romania Liga 2;09:00;SSU Politehnica Timisoara;CS Minaur Baia Mare;-0.2;2.25
+Romania Liga 2;09:00;AFC Progresul Spartac Bucuresti;FC Unirea 2004 Slobozia;+0.7;2.25
+South Africa Diski Challenge;09:00;Golden Arrows Reserves;Sekhukhune United Reserves;-0.2;2.25
+Hungary U19 1st Division;09:00;Kisvarda FC U19;Nyiregyhaza Spartacus U19;-0.7;3.5 
+Croatia U19 League;09:00;NK Lokomotiva Zagreb U19;Mladost Zdralovi U19;-0.5;2.5 
+Croatia U19 League;09:00;NK Dugopolje U19;HNK Sibenik U19;-0.2;2.75
+Croatia U19 League;09:00;Hajduk Split U19;HNK Cibalia U19;-1.7;2.75
+Mongolia Premier League;09:00;Khans Khuns-Erchim;Deren FC;0.0 ;3.5 
+Czech Republic 5. Ligy;09:00;Tj Sigma Lutin;TJ Sokol Cechovice;+1.5;3.75
+Israel Youth League;09:15;Beitar Jerusalem U19;Hapoel Beer Sheva U19;-0.2;2.75
+Czech Republic 4. Ligy;09:15;SK Steti;SK Vilemov;-1.0;3.25
+Czech Republic 4. Ligy;09:15;FK Brandys nad Labem;TJ Jiskra Usti Nad Orlici;+0.7;3.25
+Czech Republic 4. Ligy;09:15;TJ Novy Jicin;Frenstat Pod Radhostem;-0.7;3.25
+Czech Republic 4. Ligy;09:15;MSK Breclav;Stara Rise;-1.2;3.25
+Czech Republic 4. Ligy;09:15;SK Petrin Plzen;Jiskra Domazlice B;-1.0;3.75
+Czech Republic 5. Ligy;09:15;Viktoria Zizkov B;FC Tempo Prague;+0.7;3.75
+Czech Republic 5. Ligy;09:15;FK Sparta Kutna Hora;Povltavska FA B;+0.5;3.5 
+Czech Republic Youth League;09:15;Pardubice U19;Sparta Prague U19;+1.0;3.25
+Czech Republic 2. Liga;09:15;Trinec;SK Lisen;+0.2;2.5 
+Slovakia 2. Liga;09:30;MSK Zilina B;MFK Dubnica;-0.5;2.75
+Czech Republic 4. Ligy;09:30;Horni Briza;Aritma Praha;+1.5;3.75
+Czech Republic 4. Ligy;09:30;FK Komarov;SK Tochovice;-0.7;3.75
+Czech Republic 5. Ligy;09:30;TJ Spoje Praha;Kolovraty;-2.7;4.25
+Thailand Division 3;09:30;Banbueng FC;Warship United FC;-0.5;2.5 
+Thailand Division 3;09:30;Lopburi City FC;Hua Hin City;0.0;2.5 
+Thailand Division 3;09:30;Prime Bangkok;Siam FC;-2.0;3.0 
+Thailand Division 3;09:30;Thonburi United FC;Kasem Bundit University;+0.2;2.5 
+Thailand Division 3;09:30;Chiangrai Lanna;Watbot City;+0.2;2.5 
+Thailand Division 3;09:30;Surin Khongcheemoon FC;Sisaket United;+0.2;2.25
+Thailand Division 3;09:30;ACDC FC;Marine Corps FC;-0.5;2.5 
+Greece Super League U19;09:30;Volos NFC U19;Panathinaikos U19;+1.0;2.75
+Australia A-League;09:45;Macarthur FC;Sydney FC;+0.5;2.75
+Cambodia Premier League;09:45;Boeung Ket FC;Svay Rieng FC;+0.7;3.0 
+Germany Oberliga Bremen;10:00;TuS Komet Arsten;SG Aumund Vegesack;+1.2;4.0 
+Ukraine Persha Liga;10:00;Nyva Ternopil;FK Prykarpattya Ivano-Frankivsk;-0.5;2.0 
+Germany Bundesliga U19;10:00;Augsburg U19;Eintracht Frankfurt U19;+0.2;3.25
+Germany Bundesliga U19;10:00;Mainz U19;FC Ingolstadt U19;-1.2;3.75
+Germany Bundesliga U19;10:00;Bayern Munich U19;VfB Stuttgart U19;+0.5;3.0 
+Germany Bundesliga U19;10:00;Cologne U19;Schalke U19;0.0;3.25
+Germany Bundesliga U19;10:00;Bayer Leverkusen U19;Borussia M'gladbach U19;-0.2;3.25
+Germany Bundesliga U19;10:00;Borussia Dortmund U19;FC Viktoria Köln U19;-2.2;3.5 
+Germany Bundesliga U19;10:00;Holstein Kiel U19;Viktoria Berlin U19;-0.2;3.5 
+Germany Bundesliga U19;10:00;SC Freiburg U19;Nurnberg U19;+1.0;2.75
+Kazakhstan Premier League;10:00;FK Kaspyi Aktau;Akzhayik Uralsk;0.0;2.25
+Israel Youth League;10:00;Hapoel Raanana U19;Maccabi Tel Aviv U19;+0.2;3.0 
+Romania Liga 2;10:00;ACS Viitorul Pandurii Targu Jiu;CSA Steaua Bucuresti;+0.5;2.25
+Romania Liga 2;10:00;Unirea Dej;CS Concordia Chiajna;0.0;2.25
+Poland Youth League;10:00;MKS Polonia Warsaw U19;Lechia Gdansk U19;-1.0;3.25
+Slovakia I Liga Women;10:00;FC Petrzalka Women;MFK Ruzomberok Women;+3.0;4.25
+Slovakia I Liga Women;10:00;GFC Topolcany Women;Spartak Trnava Women;+1.7;4.25
+Slovakia I Liga Women;10:00;AS Trencin Women;Union Nove Zamky Women;-4.2;5.25
+Turkey U19 League;10:00;Adana Demirspor U19;Ankaraspor U19;-0.7;2.75
+Turkey U19 League;10:00;Boluspor U19;Yeni Malatyaspor U19;-1.2;3.0 
+Turkey U19 League;10:00;Hatayspor U19;Ankaragucu U19;0.0;2.75
+Turkey U19 League;10:00;Umraniyespor U19;Besiktas U19;+0.5;3.0 
+Turkey U19 League;10:00;Antalyaspor U19;Giresunspor U19;-1.2;3.25
+Turkey U19 League;10:00;Konyaspor U19;Sivasspor U19;-0.2;2.5 
+Turkey U19 League;10:00;Kayserispor U19;Goztepe U19;-1.2;3.0 
+Myanmar National League;10:00;Ispe FC;Yadanarbon FC;0.0;2.75
+Czech Republic Division 1 Women;10:00;Lokomotiva BH Herspice Women;Slovacko Women;+2.0;3.5 
+Czech Republic Youth League;10:00;Ceske Budejovice U19;Hradec Kralove U19;-0.7;3.25
+Czech Republic Youth League;10:00;FC Brno U19;Slavia Prague U19;+0.2;3.25
+Czech Republic Youth League;10:00;Sigma Olomouc U19;FC Fastav Zlin U19;-1.0;3.75
+Turkey League Women;10:00;Konak Bel Women;Fenerbahce Women;+2.0;3.5 
+Turkey League Women;10:00;1207 Antalyaspor Women;Galatasaray Women;+2.2;3.75
+Turkey League Women;10:00;Altay Women;Kdz Ereglispor Women;+1.2;3.25
+Turkey League Women;10:00;Atasehir Bld Spor Women;Trabzonspor Women;-0.7;3.25
+Thailand Division 3;10:00;STK Muangnont FC;North Bangkok University;+0.7;2.5 
+Italy Campionato Primavera 1;10:00;Cesena U19;Juventus U19;+1.2;3.0 
+Italy Campionato Primavera 2;10:00;Pescara U19;Crotone U19;-1.7;3.5 
+Italy Campionato Primavera 2;10:00;Benevento U19;Pisa U19;-0.2;2.75
+Italy Campionato Primavera 2;10:00;Imolese U19;Lazio U19;+1.5;3.25
+Italy Campionato Primavera 2;10:00;Perugia U19;Cosenza U19;-0.7;3.0 
+Italy Campionato Primavera 2;10:00;Reggina U19;Spezia U19;+0.5;3.0 
+Italy Campionato Primavera 2;10:00;Ternana U19;Salernitana U19;+0.5;3.0 
+Italy Campionato Primavera 2;10:00;Virtus Entella U19;Ascoli U19;-0.2;2.75
+Poland IV Liga;10:00;GKS Szombierki Bytom;Ruch Radzionkow;-0.2;4.0 
+Poland IV Liga;10:00;Rozwoj Katowice;Victoria Czestochowa;-1.0;3.25
+India Calcutta Football League;10:00;Bhawanipore FC;Techno Aryan;-0.5;2.5 
+Spain Primera Federacion Women;10:00;Cordoba Women;EDF Logrono Women;+0.2;2.75
+Israel Youth League;10:05;Maccabi Netanya U19;MS Ashdod U19;-0.2;2.5 
+Israel Youth League;10:10;Maccabi Haifa U19;Hapoel Hadera U19;-1.0;3.0 
+China Super League;10:30;Shanghai Shenhua;Cangzhou Mighty Lions;-0.2;2.25
+Israel Youth League;10:30;Shimshon Tel Aviv Raya U19;Gadna Tel Aviv Yehuda U19;+0.5;4.25
+Estonia Esiliiga;10:30;JK Viljandi Tulevik;Harju JK Laagri;+2.0;4.0 
+India Punjab Super League;10:30;Khalsa FC Chandigarh;Punjab Police Jalandhar;+0.2;3.5 
+Netherlands U21 League;10:30;Excelsior Maassluis U21;Cambuur Leeuwarden U21;+0.2;3.0 
+Spain Primera Women;10:45;Athletic Bilbao Women;Atletico Madrid Women;+0.7;3.0 
+Bulgaria B PFG;10:45;Maritsa Plovdiv;Minyor Pernik;0.0;2.25
+Latvia Virsliga;11:00;FK Spartaks;Metta/LU;-1.0;3.25
+Poland II Liga;11:00;Znicz Pruszków;Hutnik Krakow;-0.7;2.75
+Portugal Segunda Liga;11:00;Torreense;CD Mafra;0.0;2.25
+Portugal U19 League;11:00;FC Porto U19;Pacos Ferreira U19;-1.5;3.0 
+Poland III Liga;11:00;Blonianka Blonie;Lechia Tomaszow Mazowiecki;+0.2;2.75
+Poland III Liga;11:00;Legia Warsaw II;LKS Lodz II;-0.7;3.25
+Poland III Liga;11:00;Gedania Gdansk;Unia Janikowo;-2.0;3.25
+Poland III Liga;11:00;Rakow Czestochowa II;Rekord Bielsko-Biala;-0.5;2.75
+Poland III Liga;11:00;Miedz Legnica II;Odra Wodzislaw;-0.5;3.0 
+Poland III Liga;11:00;Wieczysta Krakow;Avia Swidnik;-1.2;2.75
+Denmark Series Group 1;11:00;B 1908;GVI;;
+Hong Kong Premier League;11:00;Lee Man FC;Kitchee;+0.7;3.0 
+Ukraine Vyscha Liga;11:00;Vorskla Poltava;FK Minai;-0.7;2.5 
+Germany Bundesliga U19;11:00;Hansa Rostock U19;Berliner AK 07 U19;-0.7;3.25
+Israel Youth League;11:00;Tzeirey Kafr Kana U19;Beitar Tubruk U19;+1.2;2.75
+Turkey 2 Lig Kirmizi;11:00;1461 Trabzon FK;Serik Belediyespor;-0.7;2.25
+Poland Youth League;11:00;Korona Kielce U19;Legia Warsaw U19;+0.2;3.75
+Poland Youth League;11:00;Jagiellonia Bialystok U19;Slask Wroclaw U19;-0.7;3.5 
+Denmark Series Group 2;11:00;KFUMs Boldklub;Herlev;+0.2;3.25
+South Africa Diski Challenge;11:00;Orlando Pirates Reserves;Maritzburg United Reserves;-0.2;2.25
+Denmark Series Group 3;11:00;B 1913;B 1909;;
+Poland Ekstraklasa Women;11:00;Pogon Szczecin Women;Pogon Tczew Women;-1.2;3.5 
+Spain Primera Women;11:00;Madrid CFF Women;UDG Tenerife Sur Women;0.0;2.75
+Turkey League Women;11:00;Adana Idman Women;Kirecburnu Women;-3.2;4.0 
+Turkey League Women;11:00;ALG Spor Women;Fatih Karagumruk Women;-2.0;3.25
+Thailand Division 3;11:00;Nonthaburi United;Samut Prakan FC;-0.7;2.5 
+Thailand Division 3;11:00;Pathumthani University;Chainat United;-0.5;2.5 
+Spain Youth League;11:00;CD Alaves U19;Santutxu U19;-0.5;2.75
+Spain Youth League;11:00;Atletico Perines U19;Gimnastica de Torrelavega U19;-0.5;3.0 
+Spain Youth League;11:00;Real Zaragoza U19;Huesca U19;-1.0;3.25
+Poland IV Liga;11:00;KSS Kotwica Kornik;Korona Piaski;-0.2;2.75
+Greece Super League U19;11:00;PAS Giannina U19;Asteras Tripolis U19;0.0;2.5 
+Liberia National League Women;11:00;Blanco FC Women;Ambassador FC Women;;
+Portugal Liga 3;11:00;Vitoria Setubal;Alverca;0.0;2.25
+Spain Primera Federacion Women;11:00;Barcelona Women B;Athletic Bilbao Women B;-2.5;3.5 
+Spain Primera Federacion Women;11:00;Deportivo La Coruna Women;Eibar Women;-0.2;2.75
+Ukraine Persha Liga;11:30;FSC Mariupol;Polissya Zhytomyr;+1.7;2.5 
+Spain Tercera Group 12;11:30;Arucas CF;Mensajero;0.0;2.5 
+Denmark U19 League;11:30;Odense BK U19;Lyngby U19;-0.7;3.75
+Thailand Division 2;11:30;Krabi FC;Nakhon Si United;+0.2;2.5 
+Hong Kong 1st Division;11:30;Metro Gallery FC;Wing Yee;+2.0;3.25
+Israel Youth League;11:30;Bnei Sakhnin U19;Hapoel Rishon Lezion U19;-1.2;3.0 
+Lithuania 1 Lyga;11:30;BE1 NFA;FK Zalgiris Vilnius II;-1.2;3.0 
+Turkey 1 Lig;11:30;Pendikspor;Samsunspor;0.0;2.25
+Turkey 1 Lig;11:30;Bandirmaspor;Caykur Rizespor;-0.2;2.5 
+Poland Ekstraklasa Women;11:30;GKS Katowice Women;UKS SMS Lodz Women;+0.5;3.0 
+Georgia Erovnuli Liga;11:30;Torpedo Kutaisi;FC Telavi;-0.5;2.25
+Spain Youth League;11:30;CD Maspalomas U19;Mensajero U19;-0.7;2.75
+Austria League 1 Women;11:45;SKV Altenmarkt Women;SK Sturm Graz Women;+4.2;5.0 
+England Championship;12:00;Bristol City;Swansea;0.0;2.5 
+Germany Bundesliga II;12:00;Kaiserslautern;Nurnberg;-0.2;2.5 
+Germany Bundesliga II;12:00;Holstein Kiel;Fortuna Dusseldorf;0.0;2.75
+Germany Bundesliga II;12:00;Jahn Regensburg;Hansa Rostock;-0.2;2.5 
+Germany Regionalliga North;12:00;Hamburg II;SV Atlas Delmenhorst;-0.7;3.0 
+Germany Regionalliga North East;12:00;Chemnitzer;ZFC Meuselwitz;-1.2;2.75
+Germany Regionalliga North East;12:00;Greifswalder FC;Rot-Weiss Erfurt;-0.2;2.75
+Germany Regionalliga North East;12:00;FC Viktoria 1889 Berlin;BSG Chemie Leipzig;+0.2;2.75
+Germany Oberliga Bremen;12:00;Blumenthaler SV;Union 60 Bremen;+0.7;4.0 
+Bosnia & Herzegovina Premier Liga;12:00;Velez Mostar;Leotar;-1.0;2.25
+Latvia Virsliga;12:00;BFC Daugavpils;SK Super Nova;-0.5;2.75
+Poland II Liga;12:00;Gornik Polkowice;Garbarnia Krakow;-0.5;2.75
+Armenia Premier League;12:00;FK Lernayin Artsakh Goris;FC Urartu;+0.7;2.25
+Armenia Premier League;12:00;FC Van;Ararat Yerevan;0.0;2.0 
+Ukraine Persha Liga;12:00;Hirnyk-Sport Horishni Plavni;Skoruk Tomakovka;0.0;2.5 
+Sweden Damallsvenskan;12:00;Umeå IK Women;Brommapojkarna Women;-0.7;2.75
+Denmark Division 1;12:00;Hvidovre IF;FC Fredericia;-0.7;3.0 
+Lithuania A Lyga;12:00;FK Kauno Zalgiris;Banga Gargzdai;-1.2;2.5 
+China Super League;12:00;ShenZhen;Henan Songshan Longmen;+1.0;2.5 
+Sweden Superettan;12:00;Orgryte IS;Skövde AIK;-0.2;2.5 
+Sweden Superettan;12:00;IK Brage;Västerås SK FK;0.0;3.25
+Sweden Superettan;12:00;Norrby IF;Osters IF;+0.2;2.5 
+Sweden 1.div Norra;12:00;BK Forward;Team TG FF;-1.2;3.0 
+German Bundesliga Women;12:00;TSG 1899 Hoffenheim Women;Eintracht Frankfurt Women;+0.2;3.25
+Poland III Liga;12:00;Cracovia Krakow II;KSZO Ostrowiec;-0.7;2.75
+Poland III Liga;12:00;Mlawianka Mlawa;Unia Skierniewice;-0.2;3.0 
+Poland III Liga;12:00;Blekitni Stargard;KS Polonia Sroda Wlkp;-0.2;3.0 
+Poland III Liga;12:00;Stolem Gniewino;Zawisza Bydgoszcz;0.0;2.75
+Poland III Liga;12:00;Unia Solec Kujawski;KP Starogard Gdanski;+0.7;2.75
+Denmark Series Group 1;12:00;Greve;KFUM Roskilde;;
+Denmark Series Group 1;12:00;Karlslunde IF;Tårnby FF;;
+Azerbaijan Premier League;12:00;FK Kapaz;Sabail FC;+0.2;2.5 
+Germany Bundesliga U19;12:00;Hertha Berlin U19;FC Energie Cottbus U19;-1.7;4.0 
+Germany Bundesliga U19;12:00;RB Leipzig U19;FC Magdeburg U19;-1.0;3.5 
+Germany Bundesliga U19;12:00;VfB Hilden U19;Rot-Weiss Oberhausen U19;+1.2;3.25
+Denmark U19 League;12:00;AGF Aarhus U19;Esbjerg U19;-0.2;3.75
+Denmark U19 League;12:00;Midtjylland U19;AC Horsens U19;-2.7;4.0 
+Thailand Division 2;12:00;Phrae United;Customs United;-0.5;2.5 
+Kazakhstan Premier League;12:00;FK Taraz;Tobol Kostanay;+0.5;2.5 
+Spain Tercera Group 9;12:00;CD Huracan Melilla;Atletico Malagueno;;
+Germany Oberliga Hamburg;12:00;Tus Dassendorf;Hamburger SV III;-3.0;4.25
+Turkey 2 Lig Beyaz;12:00;Ankaraspor;Sivas Belediyespor;-1.2;2.5 
+Turkey 2 Lig Beyaz;12:00;Inegolspor;Afjet Afyonspor;+0.7;2.5 
+Turkey 3.Lig Group 1;12:00;1922 Konyaspor;52 Orduspor FK;-0.2;2.25
+Turkey 3.Lig Group 1;12:00;Sile Yildizspor;Catalca Spor;-0.2;2.0 
+Turkey 3.Lig Group 1;12:00;Belediye Derincespor;Yeni Mersin Idmanyurdu;0.0;2.0 
+Germany Oberliga NOFV Sud;12:00;SV Blau-Weiss Zorbau;Eilenburg;+0.7;3.25
+Germany Oberliga NOFV Nord;12:00;Blau-Weiss 90 Berlin;1. FC Frankfurt;-1.2;3.25
+Turkey 3.Lig Group 3;12:00;Akhisarspor;Bergama Belediyespor;-0.2;2.0 
+Turkey 3.Lig Group 3;12:00;Tepecikspor;Cankaya FK;+0.2;2.0 
+Thailand Premier League;12:00;Prachuap FC;Khonkaen United;-0.7;2.5 
+Denmark Series Group 2;12:00;Avarta;VB 1968;-1.5;3.25
+Denmark Series Group 2;12:00;LSF;Slagelse;-0.2;3.25
+Denmark Series Group 2;12:00;Allerød;Frederikssund IK;0.0;3.25
+Turkey U19 League;12:00;Fenerbahce U19;Fatih Karagumruk U19;-1.5;3.25
+Turkey U19 League;12:00;Galatasaray U19;Istanbulspor U19;-1.5;3.5 
+Denmark Series Group 3;12:00;Marienlyst;Varde IF;;
+Denmark Series Group 3;12:00;OKS;Brabrand 2;;
+Poland Ekstraklasa Women;12:00;AZS UJ Krakow Women;Slask Wroclaw Women;0.0;3.25
+Tanzania Premier League;12:00;Tanzania Prisons;Namungo FC;-0.2;1.75
+Sweden 1.div Södra;12:00;Qviding FIF;Lindome GIF;-0.5;3.0 
+Sweden 1.div Södra;12:00;Torns IF;Falkenbergs FF;+1.5;3.0 
+Sweden 1.div Södra;12:00;Tvååkers IF;IK Oddevold;+0.5;2.5 
+Sweden 1.div Södra;12:00;Vänersborgs IF;BK Olympic;0.0;2.75
+England Premier League 2;12:00;Everton U21;Man City U21;+0.5;3.25
+England Premier League 2;12:00;Tottenham U21;Man Utd U21;-0.2;3.5 
+Czech Republic Youth League;12:00;Slovacko U19;FK Pribram U19;-2.7;4.0 
+Thailand Division 3;12:00;Khonkaen;Khonkaen Mordindang FC;-0.5;2.5 
+Thailand Division 3;12:00;Rasi Salai United;Muang Loei United;-0.2;2.5 
+Thailand Division 3;12:00;Navy FC;Bankhai United;+0.2;2.5 
+Italy Campionato Primavera 1;12:00;Napoli U19;Udinese U19;-0.2;2.75
+Italy Campionato Primavera 1;12:00;Inter Milan U19;Frosinone U19;-0.2;2.75
+Spain Youth League;12:00;Ibarra U19;UD San Fernando U19;-0.5;2.75
+Spain Youth League;12:00;CF Juventud Laguna U19;Tenerife U19;+0.7;3.0 
+Liberia National League Women;12:00;Lead Academy Women;DC Shooters FC Women;;
+Denmark Division 3;12:00;IF Lyseng;Vanløse;+0.7;2.75
+Denmark Division 3;12:00;Ishoj;Young Boys FD;-0.2;3.0 
+Croatia 1.NL;12:00;NK Rudes;NK Jarun;-0.7;2.5 
+England Premier League;12:30;Leicester;Man City;+1.5;3.25
+England Championship;12:30;West Brom;Sheff Utd;-0.2;2.25
+Turkey Super Lig;12:30;Konyaspor;Kasimpasa;-0.7;2.75
+China Super League;12:30;Beijing Guoan;Guangzhou FC;-1.7;2.75
+China Super League;12:30;Wuhan Three Towns;Chengdu Rongcheng;-1.5;3.0 
+Slovakia 3. Liga;12:30;Spisska Nova Ves;SK Novohrad Lucenec;-2.2;3.25
+Slovakia 3. Liga;12:30;Slovan Giraltovce;FK Svidnik;0.0;2.75
+Slovakia 3. Liga;12:30;FK Poprad;FTC Filakovo;-0.7;2.75
+Slovakia 3. Liga;12:30;Inter Bratislava;OK Castkovce;0.0;2.75
+Slovakia 3. Liga;12:30;Fomat Martin;FK Podkonice;-0.5;3.0 
+Slovakia 3. Liga;12:30;Partizan Bardejov;Odeva Lipany;;
+Poland III Liga;12:30;Ursus Warsaw;Pogon Grodzisk Mazowiecki;+1.2;2.75
+Poland III Liga;12:30;Lublinianka Lublin;Podlasie Biala Podlaska;0.0;2.75
+Estonia Meistriliiga;12:30;FC Kuressaare;JK Tallinna Kalev;-1.0;3.0 
+Thailand Division 2;12:30;Chiang Mai FC;Suphanburi FC;;
+Thailand Premier League;12:30;Chonburi;Sukhothai FC;-1.0;2.75
+Germany Oberliga Schleswig-Holstein;12:30;Weiche Flensburg 08 II;Dornbreite Lübeck;-0.7;3.75
+Denmark Series Group 3;12:30;Hedensted IF;Otterup;;
+Poland Ekstraklasa Women;12:30;Gornik Leczna Women;Sportowa Czworka Radom Women;;
+Belgium Super League Women;12:30;Club Brugge Women;OH Leuven Women;+1.7;3.5 
+Cambodia Premier League;12:30;Phnom Penh Crown;Visakha FC;;
+England Premier League 2;12:30;Derby U21;Aston Villa U21;+0.2;3.5 
+Hungary NBI Women;12:30;Diosgyori VTK Women;Haladas Viktoria Women;-1.5;4.0 
+Hungary NBI Women;12:30;Szent Mihaly SE Women;MOL Fehervar FC Women;-1.2;3.0 
+Bulgaria B PFG;12:30;Litex Lovech;Strumska slava;-0.5;2.25
+Bulgaria B PFG;12:30;FK Sozopol;Belasitza Petrich;0.0;2.25
+Bulgaria B PFG;12:30;Yantra Gabrovo;Sportist Svoge;-0.2;2.25
+Bulgaria B PFG;12:30;Dobrudzha 1919 Dobrich;Montana 1921;0.0;2.0 
+Spain Youth League;12:30;Cultural Leonesa U19;Rayo Vallecano U19;;
+Spain Youth League;12:30;Malaga U19;Rusadir CF U19;;
+Greece Super League U19;12:30;Ionikos U19;Panetolikos U19;-0.2;2.5 
+Denmark Division 2;12:30;Thisted FC;Brabrand;-0.7;2.75
+Portugal Segunda Liga;12:45;FC Porto B;Feirense;-0.2;2.5 
+Portugal Segunda Liga;12:45;Nacional;Penafiel;+0.2;2.25
+Italy Serie B;13:00;Modena;Palermo;-0.2;2.5 
+Italy Serie B;13:00;Parma;Como;-0.5;2.5 
+Italy Serie B;13:00;Spal;Sudtirol;-0.2;2.25
+Italy Serie B;13:00;Venezia;Ascoli;-0.5;2.25
+Italy Serie B;13:00;Benevento;Pisa;-0.2;2.25
+Italy Serie B;13:00;Cagliari;Reggina;-0.2;2.25
+Italy Serie B;13:00;Cosenza;Frosinone;+0.7;2.25
+Spain Primera Liga;13:00;Almeria;Celta Vigo;+0.2;2.25
+Spain Segunda;13:00;FC Andorra;Ponferradina;-0.7;2.5 
+Germany Regionalliga North;13:00;TSV Havelse;SC Weiche Flensburg 08;+0.7;2.75
+Germany Regionalliga North;13:00;Eintracht Norderstedt;FC Teutonia 05;-0.2;3.0 
+Germany 3.Liga;13:00;Saarbrucken;SV Meppen;-0.5;2.75
+Germany 3.Liga;13:00;SpVgg Bayreuth;1860 Munich;+0.7;3.0 
+Germany 3.Liga;13:00;Erzgebirge Aue;Elversberg;+0.5;2.75
+Germany 3.Liga;13:00;Waldhof Mannheim;Dynamo Dresden;0.0;2.5 
+Germany 3.Liga;13:00;Rot-Weiss Essen;Zwickau;-0.2;2.75
+Germany 3.Liga;13:00;Borussia Dortmund II;Verl;0.0;2.5 
+Germany Regionalliga South West;13:00;SSV Ulm 1846;FC Astoria Walldorf;-1.2;2.75
+Germany Regionalliga South West;13:00;Rot-Weiss Koblenz;FSV Frankfurt;+0.2;2.75
+Germany Regionalliga South West;13:00;Eintracht Trier;TSG Balingen;0.0;2.5 
+Germany Regionalliga South West;13:00;Bahlinger SC;FC 08 Homburg;0.0;2.5 
+Germany Regionalliga South West;13:00;TSV Steinbach;Kickers Offenbach;0.0;2.5 
+Germany Oberliga Bremen;13:00;KSV Vatan Sport Bremen;FC Oberneuland;+1.2;3.75
+Germany Oberliga Rheinland-Pfalz/Saar;13:00;Sportfreunde Eisbachtal;TuS Koblenz;+1.5;3.25
+Germany Oberliga Rheinland-Pfalz/Saar;13:00;TSV Schott Mainz;SG 2000 Mulheim-Karlich;-2.2;3.75
+Germany Oberliga Bayern South;13:00;FC Ingolstadt II;TSV Landsberg;-0.2;2.75
+Germany Oberliga Bayern South;13:00;TSV Dachau 1865;TSV 1860 Rosenheim;-0.7;3.25
+Germany Oberliga Bayern South;13:00;Ismaning;TSV Schwaben Augsburg;0.0;2.75
+Germany Oberliga Bayern South;13:00;Memmingen;Gundelfingen;-0.5;2.75
+Germany Oberliga Bayern South;13:00;FC Deisenhofen;SV Schalding-Heining;+0.2;3.0 
+Montenegro Prva Liga;13:00;OFK Petrovac;FK Jezero;;
+Poland II Liga;13:00;Pogon Siedlce;Kotwica Kolobrzeg;+0.5;2.75
+Denmark Division 1;13:00;Hillerød;Fremad Amager;-0.2;2.75
+Germany Regionalliga West;13:00;SV Straelen;Fortuna Cologne;+0.7;2.75
+Germany Regionalliga West;13:00;Fortuna Dusseldorf II;SC Preussen Munster;+1.5;3.0 
+Germany Regionalliga West;13:00;Duren;Wuppertaler;+0.5;2.75
+Germany Regionalliga West;13:00;Rot-Weiss Oberhausen;Rot Weiss Ahlen;-0.7;3.0 
+Germany Regionalliga West;13:00;1.FC Kaan-Marienborn;Wattenscheid 09;-1.0;3.0 
+Germany Regionalliga West;13:00;Schalke II;SC Wiedenbruck;-0.5;2.75
+Germany Regionalliga West;13:00;SV Rodinghausen;1. FC Bocholt;-1.2;3.0 
+Germany Regionalliga West;13:00;Alemannia Aachen;SV Lippstadt 08;-0.5;2.75
+Germany Regionalliga Bayern;13:00;Unterhaching;Schweinfurt 05;-1.0;3.0 
+Germany Regionalliga Bayern;13:00;Viktoria Aschaffenburg;Buchbach;-0.7;2.75
+Germany Regionalliga Bayern;13:00;DJK Vilzing;FV Illertissen;0.0;3.0 
+Germany Regionalliga Bayern;13:00;Ansbach;SV Heimstetten;-0.5;3.0 
+Germany Regionalliga Bayern;13:00;VfB Eichstätt;Wacker Burghausen;+0.2;2.75
+Germany Regionalliga Bayern;13:00;FC Pipinsried;Bayern Munich II;+0.5;3.25
+Germany Regionalliga Bayern;13:00;SpVgg Hankofen-Hailing;TSV Aubstadt;+0.2;2.75
+Germany Regionalliga Bayern;13:00;Wurzburger Kickers;Rain am Lech;-1.7;3.25
+Germany Regionalliga Bayern;13:00;Greuther Furth II;Nurnberg II;+0.2;2.5 
+China Super League;13:00;Tianjin Jinmen Tigers;Zhejiang;-0.2;2.25
+Austria Landesliga;13:00;SC Landskron;SV Kraig;;
+Germany Oberliga Hessen;13:00;FC Giessen;SV Unter-Flockenbach;-2.0;3.5 
+Portugal U19 League;13:00;Maritimo U19;Sporting U19;+1.5;2.75
+Portugal U19 League;13:00;Merelinense U19;Trofense U19;;
+Poland III Liga;13:00;Sokol Ostroda;Pelikan Lowicz;+0.2;2.75
+Poland III Liga;13:00;MKS Swit Nowy Dwor Mazowiecki;Legionovia Legionowo;0.0;2.75
+Poland III Liga;13:00;Pilica Bialobrzegi;ZKS Olimpia Zambrow;0.0;3.0 
+Poland III Liga;13:00;Olimpia Grudziadz;Cartusia Kartuzy;-2.0;3.25
+Poland III Liga;13:00;Sokol Kleczew;Baltyk Gdynia;-1.2;3.0 
+Poland III Liga;13:00;Gornik Zabrze II;Gwarek Tarnowskie Gory;-0.5;2.75
+Poland III Liga;13:00;KS Stilon Gorzow;GKS Pniowek 74 Pawlowice;0.0;2.75
+Poland III Liga;13:00;Polonia Bytom;Polonia Nysa;-1.7;3.25
+Poland III Liga;13:00;Unia Tarnow;NKP Podhale Nowy Targ;+0.7;2.75
+Poland III Liga;13:00;ChKS Chelmianka Chelm;Czarni Polaniec;-1.0;2.75
+Denmark Series Group 1;13:00;Brønshøj;Gørslev IF;-1.7;3.75
+Serbia Super Liga;13:00;Javor Ivanjica;FK Backa Topola;+0.7;2.25
+Germany Oberliga Bayern North;13:00;Eintracht Bamberg;ASV Neumarkt;-1.5;3.75
+Germany Oberliga Bayern North;13:00;DJK Ammerthal;SpVgg SV Weiden;-0.7;3.5 
+Germany Bundesliga U19;13:00;Meppen U19;Hamburger SV U19;0.0;2.75
+Germany Bundesliga U19;13:00;Darmstadt 98 U19;Reutlingen U19;-0.7;3.0 
+Thailand Division 2;13:00;Samut Prakan City;Chainat FC;;
+Serbia Prva Liga;13:00;FK Graficar Beograd;FK Macva Sabac;-1.2;2.5 
+Serbia Prva Liga;13:00;Jedinstvo UB;Loznica;-0.2;2.25
+Germany Oberliga NOFV Sud;13:00;Ludwigsfelder FC;VfB 1921 Krieschow;+1.0;3.25
+Germany Oberliga NOFV Sud;13:00;Bischofswerdaer FV;Einheit Rudolstadt;-1.0;3.25
+Germany Oberliga NOFV Sud;13:00;SC Freital;SV 1890 Westerhausen;-0.5;3.0 
+Germany Oberliga NOFV Sud;13:00;VfB Auerbach;FC An der Fahner Hohe;-0.5;2.75
+Germany Oberliga NOFV Sud;13:00;FSV Budissa Bautzen;FC Einheit Wernigerode;0.0;3.25
+Germany Oberliga NOFV Nord;13:00;Rostocker FC;MSV Neuruppin;-1.2;3.0 
+Israel Youth League;13:00;Shimshon Tel Aviv U19;Gadna Tel Aviv U19;;
+Iraq League;13:00;Al Karkh;Al Kahrabaa;;
+Iraq League;13:00;Al Sinaah;Al Qasim SC;;
+India Super League;13:00;Hyderabad FC;FC Goa;-0.5;3.0 
+Thailand Premier League;13:00;BG Pathum United;Lampang FC;-1.7;3.0 
+Cyprus Division 2;13:00;Ermis Aradippou;PAEEK;;
+Cyprus Division 2;13:00;Digenis Ypsonas;Peyia 2014;;
+Cyprus Division 2;13:00;Anagennisi FC Deryneia;AE Zakakiou;;
+France Cup;13:00;Les Ulis;Paris FC;+1.2;2.5 
+France Cup;13:00;CMS Oissel;AS Poissy;;
+France Cup;13:00;FCE Merignac Arlac;Niort;+1.5;2.5 
+Germany Oberliga Niedersachsen;13:00;Luneburger SK Hansa;Heeslinger SC;+1.5;3.25
+Germany Oberliga Schleswig-Holstein;13:00;FC Kilia Kiel;Heider SV;-1.0;3.75
+Germany Oberliga Schleswig-Holstein;13:00;TSB Flensburg;SV Grun-Weib Siebenbaumen;-3.2;4.25
+Germany Oberliga Schleswig-Holstein;13:00;VfB Lubeck II;Oldenburger SV;+0.5;4.0 
+Slovenia 2. SNL;13:00;NK Rudar Velenje;NK Bistrica;-0.5;2.5 
+Slovenia 2. SNL;13:00;ND Beltinci;NK Fuzinar;-0.2;2.75
+Slovenia 2. SNL;13:00;Jadran Dekani;NK Triglav Kranj;+0.2;2.5 
+Slovenia 2. SNL;13:00;NK Bilje;NK Brinje Grosuplje;-0.2;2.75
+Albania First Division;13:00;KS Besa Kevaje;KS Lushnja;;
+Bosnia & Herzegovina 1st League;13:00;Radnik Bijeljina;FK Laktasi;;
+Bosnia & Herzegovina 1st League;13:00;FK Rudar Prijedor;FK Modrica;;
+Bosnia & Herzegovina 1st League;13:00;FK Zvijezda 09;FK Podrinje;;
+Croatia U19 League;13:00;HNK Gorica U19;HNK Rijeka U19;;
+Croatia U19 League;13:00;Istra 1961 U19;NK Inter-Zapresic U19;;
+Bulgaria First League;13:00;Cherno More Varna;Lokomotiv 1929 Sofia;-0.7;2.0 
+Germany Oberliga Baden-Wuerttemberg;13:00;FC 08 Villingen;FV Ravensburg;-0.5;3.25
+Romania Liga III;13:00;Foresta Suceava;Rapid Brodoc;;
+Romania Liga III;13:00;ACS Flacara Horezu;CSO Petrolul Potcoava;;
+Romania Liga III;13:00;FC Voluntari II;FC Agricola Borcea;;
+Romania Liga III;13:00;ACS Somuz Falticeni;Viitorul Darabani;;
+Romania Liga III;13:00;AS Stiinta Miroslava;Bucovina Radauti;-0.2;2.25
+Romania Liga III;13:00;CFR Cluj II;CS Sportul Simleu Silvaniei;0.0;3.75
+Romania Liga III;13:00;CS Tunari;CS Dinamo Bucuresti;-1.2;3.5 
+Romania Liga III;13:00;ACS Olimpic Cetate Rasnov;ACS Sepsi II;-0.5;2.5 
+Romania Liga III;13:00;SR Brasov;ACS Kids Tampa Brasov;-1.0;2.75
+Romania Liga III;13:00;FC Paulesti;CSO Plopeni;0.0;2.5 
+Romania Liga III;13:00;ACS Cozia Calimanesti;CS Viitorul Daesti;+0.5;2.25
+Romania Liga III;13:00;CS Soimii Lipova;Gloria Lunca Teuz Cermei;-1.0;3.0 
+Lebanon Division 2;13:00;Racing Beirut;Al Islah Burj;;
+Czech Republic 3. Ligy;13:00;Frydlant Nad Ostravici;FK Blansko;0.0;2.75
+Czech Republic 3. Ligy;13:00;MFK Vitkovice;Frydek Mistek;+1.0;3.25
+Hungary NBI Women;13:00;Puskas FC Women;Ferencvarosi TC Women;;
+Albania Championship;13:00;KS Kastrioti Kruje;Bylis Ballsh;;
+Italy Campionato Primavera 2;13:00;Genoa U19;Reggiana U19;-2.7;3.75
+Italy Campionato Primavera 2;13:00;Monopoli U19;ADC Viterbese U19;-0.2;2.75
+Republic of Ireland National League Women;13:00;FC Treaty United Women;Cork City Women;+1.5;3.75
+Brazil Campeonato Mineiro U20;13:00;Inter De Minas U20;Cruzeiro U20;;
+Austria 2. Liga;13:00;FC Blau Weiss Linz;FC Liefering;-1.2;3.25
+Austria 2. Liga;13:00;Floridsdorfer AC;FC Dornbirn 1913;-1.0;2.75
+Austria 2. Liga;13:00;Rapid Vienna II;FC Flyeralarm Admira;+0.2;3.0 
+Liberia National League Women;13:00;Earth Angels FC Women;World Girls FC Women;;
+North Macedonia Second League;13:00;KF Arsimi;KF Besa Doberdoll;;
+North Macedonia Second League;13:00;GFK Ohrid Lichnidos;FK Sasa;;
+Italy Campionato Primavera 3;13:00;Latina U19;Palermo U19;;
+Denmark Division 2;13:00;FC Roskilde;Skive;-0.2;2.75
+Denmark Division 2;13:00;Kolding IF;Aarhus Fremad;-0.2;2.5 
+Denmark Division 3;13:00;SFB Oure FA;VSK Aarhus;+1.0;3.25
+Denmark Division 3;13:00;AB Tårnby;Dalum;-1.2;2.75
+Denmark 2 Division Women;13:00;Aalborg Freja Women;FC Thy - ThistedQ II Women;;
+Brazilian Women Matches;13:00;Ceara Women;Fortaleza Women;-1.0;3.0 
+Hungary NB I;13:15;Budapest Honved;MOL Fehervar FC;+0.2;2.75
+Germany Oberliga Rheinland-Pfalz/Saar;13:30;Arminia Ludwigshafen;Hertha Wiesbach;-0.5;3.75
+Germany Oberliga Rheinland-Pfalz/Saar;13:30;FC Karbach;SV Gonsenheim;+0.2;3.25
+Germany Oberliga Hessen;13:30;Baunatal;Waldgirmes;-0.2;3.25
+Italy Serie D;13:30;Franciacorta;ASD Varesina;0.0;2.5 
+Austria Regionalliga Mitte;13:30;Wolfsberger AC II;Leoben DSV;;
+Poland III Liga;13:30;Lechia Zielona Góra;MKP Carina Gubin;-1.0;2.75
+Hong Kong 1st Division;13:30;North District;Eastern District;-1.0;3.25
+Slovakia 2. Liga;13:30;FK Pohronie;FC Tatran Presov;0.0;2.75
+Slovakia 2. Liga;13:30;KFC Komarno;FK Povazska Bystrica;-1.0;2.75
+Slovakia 2. Liga;13:30;FK Humenne;Spartak Myjava;-0.5;2.5 
+Slovakia 2. Liga;13:30;STK Samorin;Slovan Bratislava B;-1.2;3.0 
+Bosnia & Herzegovina 1st League;13:30;NK Travnik;NK Stupcanica Olovo;;
+Bosnia & Herzegovina 1st League;13:30;HNK Tomislav;Buducnost Banovici;;
+Bosnia & Herzegovina 1st League;13:30;Gradina Srebrenik;FK Radnicki Lukavac;;
+Malawi Super League;13:30;CIVO United;Ekwendeni Hammers;-0.2;2.0 
+France Division 1 Women;13:30;Dijon Women;ASJ Soyaux Women;;
+France Division 1 Women;13:30;Le Havre Women;Rodez AF Women;;
+France Division 1 Women;13:30;Bordeaux Women;Guingamp Women;;
+France Division 1 Women;13:30;Reims Women;PSG Women;;
+Czech Republic 4. Ligy;13:30;Havlickuv Brod;TJ Tatran Bohunice;;
+Czech Republic 4. Ligy;13:30;Tj Sokol Lanzhot;Sokol Tasovice;;
+Czech Republic 4. Ligy;13:30;FK Viktorie Prerov;Tatran Vsechovice;;
+Czech Republic 4. Ligy;13:30;SK Slany;FK Olympie Brezova;;
+Czech Republic 5. Ligy;13:30;Nove Sedlo;FK Nejdek;;
+Czech Republic 3. Ligy;13:30;FK Usti nad Labem;Pardubice B;-1.0;3.25
+Czech Republic 3. Ligy;13:30;Banik Most-Sous;Hradec Kralove B;+0.5;2.75
+Czech Republic 3. Ligy;13:30;Slovan Velvary;FK Jablonec B;-0.7;2.75
+Czech Republic 3. Ligy;13:30;TJ Prestice;Viktoria Plzen B;+0.5;3.0 
+Czech Republic 2. Liga;13:30;FK Pribram;Vysocina Jihlava;-0.2;2.5 
+Czech Republic 2. Liga;13:30;SK Prostejov;Opava;0.0;2.5 
+Italy Serie A Women;13:30;ASD Pomigliano Women;AC Milan Women;+1.5;3.25
+Italy Serie A Women;13:30;Inter Milan Women;Roma Women;+0.5;2.5 
+Italy Serie C Group B;13:30;Alessandria;Recanatese;0.0;2.0 
+Italy Serie C Group B;13:30;Aquila 1902 Montevarchi;Cesena;+0.2;2.25
+Italy Serie C Group B;13:30;US Fiorenzuola;Virtus Entella;+0.2;2.25
+Italy Serie C Group B;13:30;Olbia;Gubbio;+0.5;2.25
+Italy Campionato Primavera 2;13:30;Brescia U19;Venezia U19;+0.5;3.0 
+Italy Campionato Primavera 2;13:30;Vicenza U19;Padova U19;-0.2;3.25
+Italy Campionato Primavera 2;13:30;Alessandria U19;Como U19;+0.2;3.25
+Italy Campionato Primavera 2;13:30;Monza U19;Parma U19;;
+Spain Youth League;13:30;Arucas CF U19;CD Las Longueras U19;;
+North Macedonia League Women;13:30;Zfk Ljuboten Women;ZFK Skopje 2014 Women;;
+Netherlands Tweede Divisie;13:30;Excelsior Maassluis;Katwijk;+1.0;3.0 
+Netherlands Tweede Divisie;13:30;HHC Hardenberg;Koninklijke HFC;-0.7;2.75
+Netherlands Tweede Divisie;13:30;OFC Oostzaan;Noordwijk;+0.5;3.0 
+Netherlands U21 League;13:30;PEC Zwolle U21;FC Groningen U21;-0.2;3.25
+UAE Division 1;13:50;Al Urooba;Al Taawon;-0.7;2.75
+UAE Division 1;13:50;Al Rams;Masfut;+0.2;2.75
+UAE Division 1;13:55;Fursan Hispania FC;Masafi;+0.5;2.75
+England League 2;14:00;Northampton;Newport County;-0.2;2.25
+Italy Serie A;14:00;Napoli;Sassuolo;-1.7;3.25
+Germany Oberliga Bremen;14:00;OSC Bremerhaven;ESC Geestemünde;;
+Malta Premier League;14:00;Birkirkara;Mosta FC;-1.0;2.5 
+Malta Premier League;14:00;Balzan FC;Valletta;-0.2;2.5 
+Poland Ekstraklasa;14:00;Korona Kielce;Piast Gliwice;+0.2;2.25
+Poland I Liga;14:00;Podbeskidzie Bielsko Biala;Sandecja Nowy Sacz;-0.5;2.5 
+Portugal Segunda Liga;14:00;Benfica B;Moreirense;0.0;2.75
+Slovenia Prva Liga;14:00;Tabor Sezana;NK Radomlje;-0.2;2.25
+Sweden Allsvenskan;14:00;Degerfors;IFK Varnamo;-0.7;2.75
+Sweden Damallsvenskan;14:00;Hammarby Women;KIF Orebro Women;-1.2;3.0 
+Denmark Division 1;14:00;Nykobing;Vejle;+1.2;2.75
+Sweden Superettan;14:00;Orebro SK;Landskrona;-0.5;2.75
+Sweden Superettan;14:00;AFC Eskilstuna;Halmstad;+0.7;3.0 
+Sweden Superettan;14:00;Utsiktens BK;Ostersunds FK;-0.5;2.5 
+Norway Division 1;14:00;SK Brann;KFUM;-2.0;4.0 
+Norway Division 1;14:00;Bryne;Sandnes Ulf;+0.2;3.25
+Norway Division 1;14:00;Grorud;Asane;+0.2;3.75
+Norway Division 1;14:00;Kongsvinger;Fredrikstad;-0.7;3.5 
+Norway Division 1;14:00;Raufoss;Sogndal;-0.2;3.5 
+Norway Division 1;14:00;Stabaek;Mjondalen;-1.2;3.25
+Norway Division 1;14:00;IK Start;Ranheim;-0.7;3.5 
+Norway Division 1;14:00;Stjørdals/Blink;Skeid;-0.5;3.25
+Austria Landesliga;14:00;St Jakob/Rosental;ATSV Wolfsberg;;
+Germany Oberliga Hessen;14:00;Eintracht Frankfurt II;SV Neuhof 1910;-3.0;4.25
+Germany Oberliga Hessen;14:00;Bayern Alzenau;TuS Dietkirchen;-1.2;3.5 
+Germany Oberliga Hessen;14:00;SV Rot Weiss Hadamar;Rot-Weiss Walldorf;+0.7;3.25
+Germany Oberliga Hessen;14:00;Steinbach;TSV Eintracht Stadtallendorf;+1.0;3.5 
+Germany Oberliga Hessen;14:00;FC Hanau 93;FC 1906 Erlensee;-1.2;3.25
+Italy Serie D;14:00;Legnago Salus;Virtus Bolzano;-0.2;2.5 
+Italy Serie D;14:00;Varese;Arconatese;;
+Poland III Liga;14:00;Jarota Jarocin;KS Pogon Nowe Skalmierzyce;-0.2;2.75
+Poland III Liga;14:00;MKS Kluczbork;Chrobry Glogow II;-0.5;2.75
+Poland III Liga;14:00;Sleza Wroclaw;Warta Gorzów Wielkopolski;-1.5;3.0 
+Poland III Liga;14:00;Stal Stalowa Wola;Sokol Sieniawa;-1.0;2.75
+Poland III Liga;14:00;Wisloka Debica;Korona Kielce II;-0.2;2.75
+Austria Regionalliga Ost;14:00;SR Donaufeld;SC Wiener Viktoria;-0.5;3.25
+Austria Regionalliga Ost;14:00;SV Stripfing/Weiden;FC Mauerwerk;-1.5;3.25
+Slovakia Super Liga;14:00;FK Zeleziarne Podbrezova;MFK Skalica;-0.5;2.75
+Slovakia Super Liga;14:00;AS Trencin;MFK Ruzomberok;-0.2;2.5 
+Germany Oberliga Bayern North;14:00;Bayern Hof;TSV Kornburg;-0.2;3.0 
+Germany Bundesliga U19;14:00;Verl U19;Bochum U19;+1.5;3.25
+Iceland Premier League;14:00;Breidablik;Vikingur Reykjavik;-0.7;3.25
+Iceland Premier League;14:00;KA Akureyri;Valur Reykjavik;-0.2;3.5 
+Iceland Premier League;14:00;FH Hafnarfjordur;IA Akranes;-1.5;3.5 
+Iceland Premier League;14:00;Keflavik;Fram Reykjavik;-0.5;4.0 
+Iceland Premier League;14:00;IBV Vestmannaeyjar;Leiknir Reykjavik;-1.0;3.75
+Iceland Premier League;14:00;KR Reykjavik;Stjarnan;-1.0;3.75
+Kazakhstan Premier League;14:00;Ordabasy Shymkent;FK Aktobe;+0.2;2.5 
+Egypt Division 1;14:00;Aswan FC;Ghazl El Mahallah;+0.2;2.0 
+Palestine West Bank League;14:00;Shabab Al Dhahiriya;Shabab Al Am'ari;-1.2;2.75
+Poland Youth League;14:00;Pogon Szczecin U19;Wisla Krakow U19;;
+Slovenia 3. SNL;14:00;NK Sobec Lesce;SD Visoko;;
+Slovenia 3. SNL;14:00;NK Drava Ptuj;SD Videm;;
+Rwanda National League;14:00;Espoir FC;APR FC;+1.0;2.25
+Rwanda National League;14:00;Sunrise FC;Rutsiro FC;-0.2;2.0 
+Rwanda National League;14:00;SC Kiyovu;Musanze FC;-0.7;2.25
+France Cup;14:00;US Salinieres;Pau;+1.0;2.25
+France Cup;14:00;Orvault;Laval;;
+France Cup;14:00;St Etienne;Rodez;-0.7;2.5 
+France Cup;14:00;Illzach Modenheim;Grenoble;+1.2;2.5 
+Slovakia I Liga Women;14:00;Spartak Myjava Women;Slovan Bratislava Women;-0.2;3.0 
+Germany Oberliga Niedersachsen;14:00;Eintracht Celle;Ramlingen-Ehlershausen;+0.5;3.5 
+Cameroon Elite One;14:00;Dragon Club Yaounde;Fauve Azur Elite;;
+Turkey 1 Lig;14:00;Sakaryaspor;Altay;-0.5;2.25
+UAE Premier League;14:00;Khor Fakkan;Dibba Al Fujairah;-0.5;2.5 
+UAE Premier League;14:00;Al Jazira SC;Al Wasl SC;-0.7;3.0 
+Ethiopia Premier League;14:00;Fasil Kenema;Bahir Dar Kenema FC;-0.7;2.0 
+Tanzania Premier League;14:00;Geita Gold;Young Africans FC;+0.2;1.75
+Zambia Super League;14:00;Kabwe Warriors;Zesco United;+0.2;1.75
+Denmark Elitedivisionen Women;14:00;AGF Women;FC Thy-Thisted Q Women;+0.2;3.0 
+Czech Republic First League;14:00;Hradec Kralove;Pardubice;-1.0;2.75
+Czech Republic First League;14:00;FK Jablonec;Ceske Budejovice;-1.0;2.75
+Czech Republic First League;14:00;Banik Ostrava;Mlada Boleslav;-0.2;3.0 
+Zimbabwe Premier Soccer League;14:00;Chicken Inn FC;CAPS United;;
+Italy Campionato Primavera 1;14:00;Empoli U19;Sampdoria U19;-0.2;2.5 
+Norway Division 1 Play-Offs;14:00;Ullensaker/Kisa;Arendal;-0.5;3.25
+Netherlands Tweede Divisie;14:00;Rijnsburgse Boys;Sparta Rotterdam Reserves;-0.2;2.75
+Netherlands Tweede Divisie;14:00;Quick Boys;Scheveningen;-0.7;2.75
+Netherlands Tweede Divisie;14:00;IJsselmeervogels;FC Lisse;-0.2;3.0 
+Malta Challenge League;14:00;Zejtun Corinthians;Mqabba FC;-1.7;3.0 
+Italy Campionato Primavera 3;14:00;Virtus Francavilla U19;Fermana U19;;
+Italy Campionato Primavera 3;14:00;Catanzaro U19;Bari U19;;
+Italy Campionato Primavera 3;14:00;SS Turris Calcio U19;Juve Stabia U19;;
+Italy Campionato Primavera 4;14:00;Trento U19;Novara U19;;
+Croatia HNL;14:00;HNK Rijeka;Istra 1961;-0.7;2.5 
+Croatia 1.NL;14:00;NK Solin;Orijent;-0.7;2.5 
+Croatia 1.NL;14:00;Vukovar 1991;NK Dubrava Zagreb;-0.7;2.25
+Croatia 2.NL;14:00;NK Trnje;NK Jadran Porec;;
+Croatia 2.NL;14:00;Mladost Zdralovi;NK Grobnican;;
+Brazilian Women Matches;14:00;America MG Women;Atletico Mineiro Women;0.0;3.5 
+Germany Bundesliga I;14:30;Bayern Munich;Mainz;-1.7;3.75
+Germany Bundesliga I;14:30;RB Leipzig;Bayer Leverkusen;-0.7;3.0 
+Germany Bundesliga I;14:30;Wolfsburg;Bochum;-0.7;2.75
+Germany Bundesliga I;14:30;VfB Stuttgart;Augsburg;-0.7;3.0 
+South Africa Premier;14:30;Orlando Pirates;Kaizer Chiefs;-0.2;2.0 
+Tunisia League 1;14:30;AS Soliman;US Monastir;0.0;1.75
+Tunisia League 1;14:30;ES Hammam Sousse;Tataouine;-0.2;1.75
+Tunisia League 1;14:30;Stade Tunisien;CS Chebba;-0.5;2.0 
+Wales Premier League;14:30;Airbus UK;Pontypridd Town;+0.5;2.75
+Wales Premier League;14:30;Bala Town;Penybont;-0.5;2.75
+Wales Premier League;14:30;Cardiff Met Uni;Caernarfon;-0.5;2.75
+Wales Premier League;14:30;Haverfordwest;The New Saints;+2.0;3.0 
+Poland III Liga;14:30;Vineta Wolin;Unia Swarzedz;0.0;2.75
+Azerbaijan Premier League;14:30;Zira IK;Neftchi Baku;+0.2;2.25
+South Africa National Div 1;14:30;Platinum City Rovers;Magesi FC;;
+South Africa National Div 1;14:30;University of Pretoria;Casric Stars FC;-0.2;1.75
+Germany Oberliga Westfalen;14:30;1. FC Gievenbeck;TUS Bovinghausen 04;+0.5;3.0 
+Brazil U20 League;14:30;Camboriu FC U20;Hercilio Luz U20;;
+Germany Oberliga Niedersachsen;14:30;Arminia Hannover;TSV Pattensen;-0.5;3.25
+Tunisia League 2;14:30;CS Hammam Lif;JS Omrane;;
+Tunisia League 2;14:30;EM Mahdia;Kalaa Sport;;
+Belgium Super League Women;14:30;Standard Liege Women;Gent Women;;
+Belgium Super League Women;14:30;Zulte-Waregem Women;Anderlecht Women;+2.5;3.75
+Germany Oberliga Baden-Wuerttemberg;14:30;Offenburger FV;FSV 08 Bissingen;+0.7;3.5 
+Germany Oberliga Baden-Wuerttemberg;14:30;Reutlingen;Freiburger FC;-1.2;3.25
+Netherlands Tweede Divisie;14:30;TEC;Kozakken Boys;+0.2;3.0 
+Denmark Division 3;14:30;Næsby;FA 2000;-0.2;2.75
+Lebanon League;14:45;Al Nejmeh;Safa Beirut;-1.2;2.25
+England Premier League;15:00;Bournemouth;Tottenham;+0.7;2.5 
+England Premier League;15:00;Brentford;Wolverhampton;-0.2;2.5 
+England Premier League;15:00;Brighton;Chelsea;+0.2;2.5 
+England Premier League;15:00;Crystal Palace;Southampton;-0.5;2.25
+England Premier League;15:00;Newcastle;Aston Villa;-0.7;2.5 
+England Championship;15:00;Burnley;Reading;-0.7;2.5 
+England Championship;15:00;Cardiff;Rotherham;-0.5;2.25
+England Championship;15:00;Coventry;Blackpool;-0.5;2.5 
+England Championship;15:00;Huddersfield;Millwall;+0.2;2.25
+England Championship;15:00;Hull;Blackburn;0.0;2.25
+England Championship;15:00;Luton;Sunderland;-0.5;2.25
+England Championship;15:00;Norwich;Stoke;-0.2;2.5 
+England Championship;15:00;Preston;Middlesbrough;0.0;2.25
+England Championship;15:00;Wigan;Watford;0.0;2.25
+England League 1;15:00;Barnsley;Forest Green;-1.0;2.5 
+England League 1;15:00;Bolton;Oxford Utd;-0.2;2.5 
+England League 1;15:00;Charlton;Ipswich;+0.5;2.5 
+England League 1;15:00;Cheltenham;Milton Keynes Dons;-0.2;2.25
+England League 1;15:00;Derby;Bristol Rovers;-0.7;2.75
+England League 1;15:00;Fleetwood Town;Accrington Stanley;-0.2;2.5 
+England League 1;15:00;Peterborough;Cambridge Utd;-1.0;2.75
+England League 1;15:00;Port Vale;Lincoln City;-0.5;2.25
+England League 1;15:00;Portsmouth;Shrewsbury;-0.7;2.5 
+England League 1;15:00;Sheff Wed;Burton Albion;-1.0;2.75
+England League 1;15:00;Wycombe;Morecambe;-1.0;3.0 
+England League 2;15:00;Mansfield;Swindon;-0.5;2.5 
+England League 2;15:00;Stockport County;Sutton Utd;-0.5;2.5 
+England League 2;15:00;Tranmere;Carlisle;-0.2;2.25
+England League 2;15:00;Walsall;Rochdale;-0.2;2.25
+England League 2;15:00;AFC Wimbledon;Harrogate Town;-0.5;2.5 
+England League 2;15:00;Barrow;Crewe;-0.5;2.25
+England League 2;15:00;Bradford;Crawley Town;-0.7;2.5 
+England League 2;15:00;Colchester;Stevenage;+0.2;2.25
+England League 2;15:00;Stockport;Sutton Utd;-0.7;2.5 
+England League 2;15:00;Doncaster;Gillingham;-0.2;2.25
+England League 2;15:00;Hartlepool;Grimsby;+0.2;2.25
+England League 2;15:00;Leyton Orient;Salford City;-0.5;2.25
+Germany Oberliga Bremen;15:00;TuSpo Surheide;Brinkumer SV;+1.5;3.75
+Belgium First Division A;15:00;Zulte-Waregem;Standard Liege;+0.2;2.75
+Bosnia & Herzegovina Premier Liga;15:00;FK Sloga Doboj;NK Posusje;-0.2;2.5 
+Latvia Virsliga;15:00;Riga FC;FK Auda;-1.5;2.75
+Switzerland 1.Liga Promotion;15:00;FC Zurich II;Lucerne II;0.0;3.25
+Denmark Superligaen;15:00;Randers FC;FC Copenhagen;+0.2;2.75
+Brazilian Matches;15:00;CA Itajai;Cacador AC;;
+Lithuania A Lyga;15:00;FK Jonava;FK Riteriai;+2.0;3.5 
+Lithuania A Lyga;15:00;FA Siauliai;Suduva Marijampole;+0.5;2.25
+Belgium First Division B;15:00;FCV Dender EH;Club Brugge II;-0.5;3.0 
+Sweden 1.div Norra;15:00;IFK Haninge;IF Sylvia;-0.7;2.75
+Sweden 1.div Norra;15:00;Motala AIF FK;Gefle IF;+0.7;3.25
+Northern Ireland Premier;15:00;Cliftonville;Carrick Rangers;-1.2;3.0 
+Northern Ireland Premier;15:00;Coleraine;Portadown;-1.5;3.0 
+Northern Ireland Premier;15:00;Dungannon Swifts;Crusaders;+1.5;3.25
+Northern Ireland Premier;15:00;Newry City;Linfield;+1.2;2.75
+Austria Landesliga;15:00;USVS Rudersdorf;FC Deutschkreutz;;
+Spain Tercera Group 10;15:00;Cordoba B;AD Ceuta FC B;-1.2;2.5 
+Portugal U19 League;15:00;Academica U19;Benfica U19;+2.0;3.5 
+Portugal U19 League;15:00;Boavista U19;Rio Ave U19;+0.5;2.5 
+Portugal U19 League;15:00;Nacional U19;Belenenses SAD U19;0.0;2.5 
+Portugal U19 League;15:00;Vizela U19;Anadia U19;-1.7;3.25
+Portugal U19 League;15:00;Gil Vicente U19;Tondela U19;-0.5;2.5 
+Portugal U19 League;15:00;Gondomar U19;Famalicao U19;0.0;2.5 
+Portugal U19 League;15:00;Vilafranquense U19;Torreense U19;-0.2;2.75
+Portugal U19 League;15:00;Guimaraes U19;Braga U19;+0.2;2.75
+Portugal U19 League;15:00;Vitoria Setubal U19;Estoril U19;+0.5;3.0 
+Portugal U19 League;15:00;CD Fatima U19;Loures U19;;
+Portugal U19 League;15:00;Clube Condeixa U19;AC Marinhense U19;;
+Portugal U19 League;15:00;Marinhas FC U19;Varzim U19;;
+Portugal U19 League;15:00;Alcochetense U19;Oriental U19;;
+Portugal U19 League;15:00;Lusitania Lourosa U19;Leixoes U19;;
+Portugal U19 League;15:00;Padroense U19;Feirense U19;;
+Portugal U19 League;15:00;Real Sport Clube Queluz U19;SC Estrela U19;;
+Portugal U19 League;15:00;SC Espinho U19;Sousense U19;;
+Portugal U19 League;15:00;Valadares Gaia FC U19;Uniao Nogueirense U19;;
+Portugal U19 League;15:00;Vilaverdense U19;Amarante U19;;
+Portugal U19 League;15:00;Penafiel U19;SC Lamego U19;;
+Portugal U19 League;15:00;Amora FC U19;SC Farense U19;;
+Portugal U19 League;15:00;Beira Mar U19;CD Gouveia U19;;
+Spain Tercera Group 11;15:00;Mercadal;Llosetense;0.0;2.25
+Spain Tercera Group 11;15:00;PE Sant Jordi;Platges de Calvia;+0.2;2.25
+Spain Tercera Group 15;15:00;CD Pamplona;CD Cantolagua;-0.2;2.0 
+Scotland Premiership;15:00;Dundee Utd;Motherwell;0.0;2.25
+Scotland Premiership;15:00;Hibernian;St Mirren;-0.7;2.5 
+Scotland Premiership;15:00;Rangers;Aberdeen;-1.5;3.0 
+Scotland Premiership;15:00;St Johnstone;Kilmarnock;-0.2;2.0 
+Austria Regionalliga Ost;15:00;SV Leobendorf;ASV Siegendorf;-0.2;3.0 
+Austria Regionalliga Ost;15:00;ASV Drassburg;Wiener Neustadt;0.0;3.0 
+Scotland Championship;15:00;Arbroath;Ayr;0.0;2.25
+Scotland Championship;15:00;Hamilton;Cove Rangers;-0.5;2.5 
+Scotland Championship;15:00;Raith;Partick;0.0;2.5 
+Scotland League One;15:00;Airdrieonians;Montrose;-0.2;2.75
+Scotland League One;15:00;Alloa;Clyde;-0.7;3.0 
+Scotland League One;15:00;Dunfermline;Kelty Hearts;-1.0;2.5 
+Scotland League One;15:00;Peterhead;FC Edinburgh;+0.5;2.5 
+Scotland League One;15:00;Queen of South;Falkirk;0.0;2.5 
+Scotland League Two;15:00;Albion;Stenhousemuir;+0.2;2.75
+Scotland League Two;15:00;Annan Athletic;Dumbarton;0.0;2.75
+Scotland League Two;15:00;East Fife;Elgin;-0.2;2.75
+Scotland League Two;15:00;Stirling;Bonnyrigg Rose;-0.7;2.5 
+Scotland League Two;15:00;Stranraer;Forfar;0.0;2.75
+Estonia Meistriliiga;15:00;Parnu JK Vaprus;FC Levadia Tallinn;;
+Serbia Super Liga;15:00;FK Cukaricki;FK Novi Pazar;-1.0;2.5 
+Jordan League;15:00;Al-Jazeera;Ramtha SC;-0.2;2.25
+Germany Oberliga Bayern North;15:00;TSV Abtswind;SC Eltersdorf;+1.0;3.25
+Germany Oberliga Bayern North;15:00;TSV Grossbardorf;ASV Cham;-0.5;3.25
+Germany Oberliga Bayern North;15:00;Würzburger FV;DJK Gebenbach;+1.2;3.5 
+Ukraine Vyscha Liga;15:00;Shakhtar Donetsk;PFC Oleksandria;-1.2;3.0 
+Israel Premier League;15:00;Maccabi Haifa;MS Ashdod;-1.2;3.0 
+Cyprus Division 1;15:00;Nea Salamis Famagusta;Pafos FC;+0.7;2.25
+Israel Youth League;15:00;Maccabi Amidar Ramat Gan U19;Bnei Yehuda Tel Aviv U19;;
+India Super League;15:00;ATK Mohun Bagan;East Bengal Club;-1.2;3.0 
+France Cup;15:00;St Pryve St Hilaire;Dijon FCO;+0.7;2.25
+France Cup;15:00;AS Prix-les-Mezieres;SC Bastia;;
+France Cup;15:00;Aubervilliers;US Quevilly;;
+France Cup;15:00;Sporting Club Toulon;Aubagne;-0.2;2.25
+Cameroon Elite One;15:00;PWD de Bamenda;UMS de Loum;;
+Scotland Highland League;15:00;Brora Rangers FC;Inverurie Loco Works;;
+Scotland Lowland League;15:00;Caledonian Braves;Spartans FC;;
+Scotland Lowland League;15:00;Civil Service Strollers;Edinburgh University;;
+Scotland Lowland League;15:00;Cumbernauld Colts;Celtic B;;
+Scotland Lowland League;15:00;East Stirlingshire;Broomhill FC;;
+Scotland Lowland League;15:00;Gretna FC 2008;Bo'ness United FC;;
+Sweden 1.div Södra;15:00;Malmo FF;Oskarshamns AIK;+1.2;3.0 
+Sweden 1.div Södra;15:00;Lunds BK;GAIS;+1.0;3.0 
+England National League;15:00;Chesterfield;Boreham Wood;-0.5;2.5 
+England National League;15:00;Dag & Red;Wealdstone;-0.5;2.75
+England National League;15:00;Dorking;Aldershot;-0.5;3.25
+England National League;15:00;Gateshead;Solihull Moors;+0.2;2.75
+England National League;15:00;Maidenhead Utd;Bromley;+0.2;2.5 
+England National League;15:00;Maidstone Utd;Yeovil;0.0;2.5 
+England National League;15:00;Notts County;Torquay;-2.0;3.25
+England National League;15:00;Woking;Eastleigh;-0.5;2.5 
+England National League;15:00;Wrexham;Altrincham;-1.5;3.25
+England National League;15:00;York;Southend;+0.2;2.25
+England National League North;15:00;AFC Fylde;Peterborough Sports;-0.7;2.75
+England National League North;15:00;AFC Telford;Alfreton Town;0.0;2.5 
+England National League North;15:00;Banbury;Kidderminster;+0.2;2.5 
+England National League North;15:00;Boston Utd;Chester;-0.2;2.5 
+England National League North;15:00;Bradford P A;Brackley;+0.5;2.25
+England National League North;15:00;Chorley;Farsley Celtic;-1.2;2.75
+England National League North;15:00;Curzon Ashton;Hereford;0.0;2.5 
+England National League North;15:00;Darlington;Leamington;-0.2;2.5 
+England National League North;15:00;Gloucester;Kings Lynn Town;+0.5;2.75
+England National League North;15:00;Kettering;Blyth Spartans;-0.2;2.5 
+England National League North;15:00;Scarborough Athletic;Spennymoor Town;0.0;2.5 
+England National League North;15:00;Southport;Buxton;-0.2;2.5 
+England National League South;15:00;Chelmsford;Eastbourne Borough;-0.2;2.75
+England National League South;15:00;Cheshunt;Havant and W;+1.0;2.75
+England National League South;15:00;Concord Rangers;Chippenham Town;0.0;2.5 
+England National League South;15:00;Dartford;Weymouth;-1.0;2.75
+England National League South;15:00;Farnborough;Oxford City;+0.2;2.5 
+England National League South;15:00;Hampton & Richmond;Braintree Town;-0.5;2.75
+England National League South;15:00;Hemel Hempstead;Ebbsfleet United;+1.2;2.75
+England National League South;15:00;St Albans;Dulwich;0.0;2.5 
+England National League South;15:00;Taunton Town;Tonbridge Angels;-0.2;2.5 
+England National League South;15:00;Welling;Hungerford Town;-0.2;2.5 
+England National League South;15:00;Worthing;Slough;-0.7;2.75
+England National League South;15:00;Bath City;Dover;-0.5;2.75
+Italy Serie B Women;15:00;Ternana Women;Verona Women;;
+Spain Primera Women;15:00;CD Alaves Women;Real Sociedad Women;+1.5;3.25
+England Northern Premier League;15:00;Hyde Utd;Bamber Bridge;-0.2;2.5 
+England Northern Premier League;15:00;Nantwich Town;Ashton Utd;0.0;2.25
+England FA Trophy;15:00;Matlock Town;Stafford Rangers;-0.5;2.5 
+England FA Trophy;15:00;Leek Town;Worksop Town;-0.2;3.25
+England FA Trophy;15:00;Lancaster City;Gainsborough Trinity;+0.2;2.5 
+England FA Trophy;15:00;Liversedge;Tamworth;+0.2;3.0 
+England FA Trophy;15:00;Hednesford;Stourbridge;0.0;2.75
+England FA Trophy;15:00;Colne;Warrington Rylands;+0.7;3.0 
+England FA Trophy;15:00;Dunston UTS;Coalville Town;+1.0;3.25
+England FA Trophy;15:00;Chasetown;Marske United;+0.2;2.75
+England FA Trophy;15:00;Royston Town;Heybridge Swifts;;
+England FA Trophy;15:00;AFC Dunstable;Hanwell Town;0.0;3.0 
+England FA Trophy;15:00;Uxbridge;Wingate & Finchley;0.0;3.0 
+England FA Trophy;15:00;Chesham;Lewes;-0.5;2.75
+England FA Trophy;15:00;Harlow Town;Bishop's Stortford;+1.2;3.0 
+England FA Trophy;15:00;Grays Athletic;Stowmarket Town;-0.2;3.0 
+England FA Trophy;15:00;Haringey Borough;Billericay;0.0;2.75
+England FA Trophy;15:00;Leiston;Wroxham;-1.2;3.0 
+England FA Trophy;15:00;Harrow Borough;Hayes & Yeading;+0.5;3.0 
+England FA Trophy;15:00;Folkestone Invicta;Horsham;-0.2;2.75
+England FA Trophy;15:00;Tavistock;Binfield;-0.5;3.0 
+England FA Trophy;15:00;Redditch;AFC Totton;;
+England FA Trophy;15:00;Weston Super Mare;Bognor Regis Town;-0.7;3.25
+England FA Trophy;15:00;Winchester City;Swindon Supermarine;+0.2;3.0 
+England FA Trophy;15:00;Beaconsfield Town;Truro City;+0.7;3.0 
+England FA Trophy;15:00;Runcorn Linnets;Belper Town;;
+England FA Trophy;15:00;Macclesfield FC;Guiseley;-0.2;2.5 
+England FA Trophy;15:00;Carshalton Ath;Kings Langley;-0.7;3.0 
+England FA Trophy;15:00;Basford Utd;Marine;-0.2;2.5 
+England FA Trophy;15:00;Hastings United;Burgess Hill Town;-1.0;2.75
+England FA Trophy;15:00;Nuneaton;Alvechurch;;
+England FA Trophy;15:00;Plymouth Parkway;Bristol Manor Farm;;
+England FA Trophy;15:00;Warrington Town;South Shields;+0.2;2.5 
+England Northern League Division One;15:00;Shepshed Dynamo;Halesowen;;
+England Northern League Division One;15:00;Grimsby Borough;Stocksbridge P S;;
+England Northern League Division One;15:00;Sheffield FC;North Shields;;
+England Northern League Division One;15:00;Trafford;Witton Albion;;
+Georgia Erovnuli Liga;15:00;Dinamo Tbilisi;FC Saburtalo Tbilisi;-1.5;3.0 
+France National 2;15:00;Guingamp II;Rouen;0.0;2.25
+England Isthmian Premier Division;15:00;Brightlingsea Regent;Aveley;+0.5;3.0 
+England Isthmian Premier Division;15:00;Enfield Town;Herne Bay;-1.2;3.25
+England Isthmian Premier Division;15:00;Margate;Hornchurch FC;+0.7;2.75
+England Isthmian Premier Division;15:00;Canvey Island;Kingstonian;-0.2;3.0 
+Spain Youth League;15:00;Gimnastic Tarragona U19;CF Damm U19;;
+Spain Youth League;15:00;CF Rayo Majadahonda U19;Getafe U19;;
+England Southern Premier League Central;15:00;AFC Rushden & Diamonds;Bromsgrove;+0.2;3.0 
+England Southern Premier League Central;15:00;Barwell;Stratford Town;0.0;3.0 
+England Southern Premier League Central;15:00;Needham Market;Bedford Town;-0.7;3.0 
+England Southern Premier League Central;15:00;St Ives Town;Rushall Olympic;-0.2;3.0 
+England Southern Premier League South;15:00;Tiverton Town;Poole Town;+0.5;3.0 
+England Southern Premier League South;15:00;Dorchester;Salisbury;+0.2;3.0 
+England Southern Premier League South;15:00;Hendon;Gosport Borough;0.0;2.75
+England Southern Premier League South;15:00;Merthyr Town;Met Police;+0.2;3.25
+Gibraltar National League;15:00;Lions Gibraltar;Mons Calpe SC;;
+Greece Super League 1;15:00;Ionikos;Panetolikos;-0.2;2.25
+Austria Regionalliga Vorarlberg;15:00;Hohenems;FC Wolfurt;-1.0;3.75
+Liberia National League Women;15:00;Determine Girls FC Women;Soccer Ambassadors FC Women;;
+Portugal Liga 3;15:00;Sao Joao Ver;Varzim;0.0;2.25
+Portugal Liga 3;15:00;Montalegre;Vilaverdense;+0.5;2.5 
+Portugal Liga 3;15:00;Moncarapachense;Academica;+0.2;2.25
+Portugal Liga 3;15:00;Oliveira Hospital;UD Leiria;+0.2;2.25
+Spain Segunda Division RFEF Group 5;15:00;Alcorcon B;Don Benito;-0.5;2.0 
+Netherlands U21 League;15:00;Almere City FC U21;De Graafschap U21;-0.2;3.25
+Italy Campionato Primavera 4;15:00;Pro Patria U19;Rimini U19;;
+Djibouti Premier League;15:00;AS Arta Solar 7;FC Dikhil;;
+Spain Segunda Federacion Women;15:00;Valencia Women B;Levante Women B;;
+Italy Serie B;15:15;Genoa;Brescia;-1.0;2.5 
+Spain Primera Liga;15:15;Cadiz;Atletico Madrid;+0.7;2.25
+Spain Segunda;15:15;Huesca;Las Palmas;+0.2;2.0 
+Portugal Primeira Liga;15:30;Santa Clara;FC Porto;+1.2;2.5 
+Spain Tercera Group 11;15:30;Santanyi;CE Andratx;;
+Spain Tercera Group 4;15:30;CD Touring;CD Anaitasuna;;
+Spain Tercera Group 15;15:30;Pena Sport;Valle Egues;;
+Spain Tercera Group 15;15:30;Oberena;Subiza;;
+Spain Tercera Group 15;15:30;Ardoi;Avance Ezcabarte;;
+Spain Tercera Group 15;15:30;Huarte;Alesves;;
+Spain Tercera Group 15;15:30;Burladés;Lagunak;;
+Spain Tercera Group 15;15:30;CD Beti Onak;UDC Txantrea;0.0;2.25
+Spain Tercera Group 2;15:30;Condal;Valdesoto;-0.7;2.5 
+Spain Tercera Group 3;15:30;Solares;Castro;-0.2;2.25
+Spain Tercera Group 18;15:30;Illescas;CD Villacanas;-0.7;2.25
+Cameroon Elite One;15:30;Stade Renard de Melong;Avion Academy;;
+Cameroon Elite One;15:30;AS Fortuna Mfou;Les Astres FC De Douala;;
+Cameroon Elite One;15:30;Bamboutos de Mbouda;Fovu de Baham;;
+Malawi Super League;15:30;Blue Eagles;Mighty Wanderers;;
+Croatia U19 League;15:30;NK Rudes U19;NK Varazdin U19;;
+Bulgaria First League;15:30;Levski Sofia;CSKA 1948 Sofia;-0.5;2.25
+Spain Youth League;15:30;FC Cartagena U19;Hercules U19;;
+Spain Youth League;15:30;UD Cornella U19;CD Ebro U19;;
+Spain Youth League;15:30;Real Betis U19;Almeria U19;;
+Spain Primera Nacional Women;15:30;Fundacion CD Tenerife Women B;Real Union de Tenerife Women B;;
+Netherlands Eredivisie;15:30;Heerenveen;FC Utrecht;-0.2;2.5 
+Spain Tercera Group 2;15:45;UC Ceares;Luarca CF;-0.7;2.25
+Spain Tercera Group 2;15:45;Praviano;L'Entregu CF;-0.2;2.25
+Spain Tercera Group 16;15:45;Anguiano;Varea;;
+Spain Tercera Group 3;15:45;CD Guarnizo;CD Naval;-0.2;2.0 
+Spain Tercera Group 3;15:45;Torina;Textil Escudo;-0.5;2.25
+Spain Tercera Group 8;15:45;Ponferradina B;La Virgen del Camino;;
+Albania Championship;15:45;KF Teuta;Laci;;
+Spain Segunda Division RFEF Group 1;15:45;Polvorin;Ourense CF;0.0;2.0 
+France Ligue 1;16:00;PSG;Troyes;-2.7;4.0 
+Austria Bundesliga;16:00;FC Salzburg;Hartberg;-2.2;3.5 
+Austria Bundesliga;16:00;Austria Klagenfurt;WSG Swarovski Tirol;-0.5;3.0 
+Austria Bundesliga;16:00;Austria Lustenau;Rapid Vienna;+0.7;3.0 
+Bosnia & Herzegovina Premier Liga;16:00;FK Sarajevo;NK Igman Konjic;-1.0;2.5 
+Hungary NB I;16:00;Kecskemeti TE;Debreceni VSC;-0.2;2.75
+Poland II Liga;16:00;Motor Lublin;Polonia Warsaw;0.0;2.5 
+Germany Oberliga Hessen;16:00;Turk Gucu Friedberg;TSV Steinbach II;-1.7;3.5 
+Portugal U19 League;16:00;Alverca U19;Casa Pia U19;-1.0;2.75
+Portugal U19 League;16:00;SC Vila Real U19;Chaves U19;;
+Spain Tercera Group 7;16:00;Trival Valderas;RSD Alcala;-0.2;2.25
+Spain Tercera Group 11;16:00;Manacor;FC Inter Manacor;-1.7;2.75
+Spain Tercera Group 5;16:00;Vilafranca;Pobla Mafumet;-0.2;2.25
+Morocco GNF 1;16:00;Raja Casablanca;FUS Rabat;-0.5;2.25
+Morocco GNF 2;16:00;Widad Temara;WAF Widad Fes;;
+Spain Tercera Group 6;16:00;Jove Espanol;Elche Ilicitano;0.0;1.75
+Spain Tercera Group 3;16:00;UD Samano;Escobedo;+0.2;2.25
+Spain Tercera Group 8;16:00;Unami CP;Cultural Leonesa B;;
+Spain Tercera Group 8;16:00;Atletico Astorga;Atletico Tordesillas;-0.5;2.25
+Egypt Division 1;16:00;El Masry;Enppi;-0.5;2.0 
+Spain Tercera Group 18;16:00;CD Tarancon;CF Talavera B;-0.7;2.25
+Poland Youth League;16:00;Cracovia Krakow U19;Gornik Zabrze U19;;
+France Cup;16:00;Vannes OC;Concarneau;+1.0;2.5 
+Cameroon Elite One;16:00;Eding Sport FC;Canon de Yaounde;;
+Ghana Premier League;16:00;Hearts of Oak;Bibiani Gold Stars;;
+Switzerland 1.Liga Classic;16:00;FC Paradiso;FC Freienbach;-1.5;3.25
+England Premier League 2;16:00;West Ham U21;Liverpool U21;+0.5;3.5 
+Spain Youth League;16:00;Levante U19;Valencia U19;;
+U23 Africa Cup of Nations Qual;16:00;Nigeria U23;Tanzania U23;;
+Spain Primera Division RFEF Group 1;16:00;Celta de Vigo B;Real Madrid B;-0.2;2.5 
+Spain Primera Division RFEF Group 1;16:00;Celta de Vigo B;CF Internacional de Madrid;-0.2;2.25
+Spain Primera Division RFEF Group 2;16:00;SD Logrones;Gimnastic;-0.2;2.0 
+Spain Primera Division RFEF Group 2;16:00;Amorebieta;Alcoyano;0.0;2.25
+Spain Segunda Division RFEF Group 2;16:00;SD Beasain;Arnedo;-0.5;2.0 
+Spain Segunda Division RFEF Group 1;16:00;Cristo Atletico;Valladolid B;+0.2;1.75
+Mexico Liga TDP;16:00;San Nicolas FC;HO GAR H. Matamoros;;
+Spain Segunda Federacion Women;16:00;Viajes Interrias FF Women;CD Parquesol CF Women;;
+Spain Tercera Group 1;16:15;CD Barco;Silva SD;-0.7;2.5 
+Malta Premier League;16:30;St Lucia;Sirens;-0.2;2.75
+Malta Premier League;16:30;Zebbug Rangers FC;Floriana;+1.0;2.75
+Poland Ekstraklasa;16:30;Jagiellonia Bialystok;Legia Warsaw;+0.2;2.5 
+Poland I Liga;16:30;Ruch Chorzow;GKS Katowice;-0.5;2.25
+South Africa Premier;16:30;Marumo Gallants;Cape Town City;0.0;1.75
+Spain Tercera Group 11;16:30;Collerense;SD Portmany;0.0;2.25
+Spain Tercera Group 4;16:30;Urduliz FT;Pasaia KE;0.0;2.25
+Spain Tercera Group 4;16:30;Basconia;CD Vitoria;-0.2;2.25
+Spain Tercera Group 4;16:30;Lagun Onak;San Ignacio;-0.2;2.25
+Spain Tercera Group 12;16:30;CD Santa Ursula;Tenerife B;+0.2;2.25
+Spain Tercera Group 12;16:30;Villa Santa Brigida;CD Union Puerto;-1.0;2.5 
+Spain Tercera Group 6;16:30;Acero;CD Roda;-0.2;1.75
+Spain Tercera Group 14;16:30;CD Miajadas;CD Don Alvaro;-0.2;2.25
+Italy Serie C Group B;16:30;U.S. Ancona;Lucchese;-0.2;2.25
+Italy Serie C Group B;16:30;Fermana;Imolese;-0.2;2.25
+Italy Serie C Group B;16:30;Pontedera;Torres;-0.2;2.0 
+Italy Serie C Group B;16:30;AC Reggiana;Vis Pesaro;-1.2;2.25
+Italy Serie C Group B;16:30;Rimini;Carrarese;0.0;2.25
+Italy Serie C Group B;16:30;Siena;San Donato Tavarnelle;-0.5;2.0 
+Spain Youth League;16:30;AD Sporting Hortaleza U19;Atletico Madrid U19;;
+Burkina Faso League;16:30;Rahimo FC;Vitesse FC;;
+Malta Challenge League;16:30;Fgura United;Marsaskala;-1.2;3.0 
+Spain Segunda Division RFEF Group 3;16:30;Atletico Saguntino;Espanyol B;+0.2;2.0 
+Spain Segunda Division RFEF Group 2;16:30;Racing Rioja CF;Brea;-0.2;2.0 
+Croatia HNL;16:30;NK Osijek;Dinamo Zagreb;+0.5;2.25
+Spain Tercera Group 4;16:45;SD Deusto;Leioa;0.0;2.25
+Israel Premier League;16:45;Bnei Sakhnin;Hapoel Hadera;-0.5;2.25
+Israel Premier League;16:45;Sektzia Nes Tziona;Hapoel Jerusalem FC;+0.5;2.5 
+Italy Serie A;17:00;Lecce;Juventus;+0.5;2.25
+Germany Oberliga Rheinland-Pfalz/Saar;17:00;Ahrweiler BC;SV Alemannia Waldalgesheim;+0.2;3.25
+Bosnia & Herzegovina Premier Liga;17:00;Borac Banja Luka;Sloboda Tuzla;-1.5;2.5 
+Poland II Liga;17:00;Stomil Olsztyn;Radunia Stezyca;-0.2;2.75
+Romania Liga I;17:00;FC Voluntari;Petrolul Ploiesti;-0.2;2.0 
+Switzerland Super League;17:00;Grasshoppers;Lucerne;+0.5;3.0 
+South Africa Premier;17:00;Royal AM FC;Mamelodi Sundowns;+0.7;2.25
+Austria Landesliga;17:00;SC Bad Sauerbrunn;Parndorf;;
+Spain Tercera Group 10;17:00;Atletico Espeleno;Cartaya;;
+Spain Tercera Group 4;17:00;Cultural de Durango;Aurrera Ondarroa;-0.7;2.25
+Spain Tercera Group 12;17:00;Ibarra;UD San Fernando;+1.0;2.75
+Poland III Liga;17:00;Warta Sieradz;MMKS Concordia Elblag;-0.2;2.75
+Serbia Super Liga;17:00;FK Vozdovac;FK Napredak;-1.0;2.25
+Cyprus Division 1;17:00;Enosis Paralimni;Olympiakos Nicosia;0.0;2.25
+Slovakia 2. Liga;17:00;FC Kosice;Raca Bratislava;-1.5;2.75
+Turkey 3.Lig Group 1;17:00;Karsiyaka;1954 Kelkit Belediyespor;;
+Germany Oberliga Mittelrhein;17:00;Bonner SC;Siegburger SV 04;-1.7;3.5 
+Spain Tercera Group 18;17:00;Manchego;Azuqueca;-0.5;2.25
+Slovenia 3. SNL;17:00;SD Sencur;NK Skofja Loka;-1.0;3.0 
+France Cup;17:00;Saint Malo;Caen;;
+France Cup;17:00;Valenciennes;Red Star FC 93;-0.2;2.25
+France Cup;17:00;Raon L'Etape;Metz;;
+France Cup;17:00;Alenconnaise;Le Havre;;
+France Cup;17:00;Onet-le-Chateau;Feurs US;;
+France Cup;17:00;Beauvais;Dunkerque;+0.5;2.25
+France Cup;17:00;Saint Priest;Lyon Duchere;;
+France Cup;17:00;Chamalieres FC;Gueugnon;;
+Turkey 1 Lig;17:00;Goztepe;Denizlispor;-0.7;2.5 
+UAE Premier League;17:00;Shabab Al Ahli Dubai;Al Ain SCC;+0.2;2.75
+UAE Premier League;17:00;Al Ittihad Kalba;Al Nasr SC;0.0;2.5 
+Jordan League Women;17:00;Al Naser Women;Al Istiqlal Women;;
+Switzerland Division 1 Women;17:00;Basel Women;FC Rapperswil-Jona Women;;
+Czech Republic 3. Ligy;17:00;Karlovy Vary;FK Zbuzany 1953;0.0;2.75
+Czech Republic First League;17:00;FC Fastav Zlín;Viktoria Plzen;+0.7;2.5 
+Norway Eliteserien;17:00;Stromsgodset;Haugesund;-0.2;3.0 
+Norway Eliteserien;17:00;Valerenga;Sarpsborg;-0.5;3.25
+Spain Youth League;17:00;Espanyol U19;FE Grama U19;-1.7;3.5 
+Spain Youth League;17:00;San Roque Balompie U19;Vazquez Cultural U19;+0.5;2.75
+Netherlands Tweede Divisie;17:00;De Treffers;Spakenburg;-0.7;3.0 
+Netherlands Derde Divisie;17:00;GVV Unitas;TOGB;;
+Germany Verbandsliga;17:00;TSV 1881 Gau-Odernheim;Pirmasens II;;
+Portugal Liga 3;17:00;Caldas SC;Real Sport Clube Queluz;-0.5;2.25
+Spain Segunda Federacion Women;17:00;CD Pozoalbense Women;La Solana Women;;
+Belgium First Division A;17:15;KV Kortrijk;Cercle Brugge;+0.5;2.75
+Belgium First Division A;17:15;Westerlo;Sint-Truidense;-0.2;2.25
+Spain Primera Women;17:15;Alhama CF Women;Real Betis Women;-0.5;3.0 
+England National League;17:20;Halifax;Oldham;-0.2;2.5 
+Republic of Ireland National League Women;17:20;Bohemians Dublin Women;Athlone Town Women;+1.2;3.0 
+Republic of Ireland National League Women;17:20;Galway Women;Peamount Utd Women;+1.5;3.25
+Republic of Ireland National League Women;17:20;Sligo Rovers Women;DLR Waves Women;+1.2;3.0 
+Republic of Ireland National League Women;17:20;Wexford Youths Women;Shelbourne Women;0.0;2.5 
+England Premier League;17:30;Fulham;Everton;-0.2;2.5 
+Spain Primera Liga;17:30;Sevilla;Rayo Vallecano;-0.5;2.25
+Spain Segunda;17:30;CD Alaves;Oviedo;-0.2;1.75
+Spain Segunda;17:30;Leganes;Racing Santander;-0.2;2.0 
+Germany Bundesliga I;17:30;Eintracht Frankfurt;Borussia Dortmund;0.0;3.0 
+Sweden 1.div Norra;17:30;Hammarby TFF;Örebro Syrianska IF;-0.5;3.25
+Estonia Meistriliiga;17:30;JK Nomme Kalju;Tallinna JK Legion;-2.0;3.25
+Jordan League;17:30;Al-Hussein SC;Aqaba;-1.0;2.25
+Israel Premier League;17:30;Maccabi Netanya;Maccabi Bnei Raina;-0.5;2.5 
+Spain Tercera Group 16;17:30;Yagüe;Comillas CF;;
+Spain Tercera Group 17;17:30;Ejea;CD Carinena;-1.0;2.25
+Iraq League;17:30;Al Shorta SC;Naft Al-Wasat;-0.2;1.75
+Spain Tercera Group 14;17:30;Moralo;CF Trujillo;-0.2;2.0 
+Senegal Ligue 2;17:30;Amitie FC;US Ouakam;;
+Greece Super League 1;17:30;Volos NFC;Panathinaikos;+0.5;2.0 
+Spain Segunda Division RFEF Group 2;17:30;Tudelano;AD San Juan;-0.5;2.0 
+Belgium Second Amateur Division VFV A;17:30;Sparta Petegem;KRC Harelbeke;;
+Netherlands Eredivisie;17:45;Sparta Rotterdam;Fortuna Sittard;-0.5;2.5 
+Portugal Primeira Liga;18:00;Benfica;Desportivo Chaves;-2.2;3.5 
+Turkey Super Lig;18:00;Alanyaspor;Gaziantep FK;-0.5;3.0 
+Spain Tercera Group 12;18:00;Panaderia Pulido;Union Sur Yaiza;-2.0;3.0 
+Spain Tercera Group 9;18:00;UD Torre del Mar;Atletico Porcuna CF;-0.5;2.5 
+France Cup;18:00;Nimes;FC Bastia-Borgo;-1.2;2.5 
+Mauritania Division 1;18:00;ACS Ksar;FC Tevragh Zeina;+0.5;2.25
+El Salvador Reserves League;18:00;CD Platense Zacatecoluca Reserves;Santa Tecla Reserves;;
+Spain Youth League;18:00;Real Madrid U19;Alcorcon U19;-1.7;3.25
+U23 Africa Cup of Nations Qual;18:00;Ivory Coast U23;Niger U23;;
+U23 Africa Cup of Nations Qual;18:00;Algeria U23;Congo DR U23;;
+U23 Africa Cup of Nations Qual;18:00;Mali U23;Rwanda U23;;
+Spain Primera Division RFEF Group 1;18:00;Deportivo La Coruna;UD San Sebastian Reyes;-1.0;2.25
+Spain Primera Division RFEF Group 1;18:00;RB Linense;Cultural Leonesa;0.0;2.25
+Spain Primera Division RFEF Group 2;18:00;Numancia;Athletic Bilbao B;-0.5;2.0 
+Spain Segunda Division RFEF Group 3;18:00;Lleida;UE Olot;-0.5;2.0 
+Spain Segunda Division RFEF Group 2;18:00;Sestao River;Mutilvera;-1.0;2.25
+Austria Landesliga;18:09;KAC 1909;SV Spittal/Drau;;
+Morocco GNF 1;18:15;Mouloudia Oujda;WAC Casablanca;+0.7;2.25
+Israel Premier League;18:15;Beitar Jerusalem;Hapoel Haifa;+0.2;2.5 
+Hungary NB I;18:30;Paksi;SC Vasas Budapest;-0.5;2.75
+Spain Tercera Group 11;18:30;CE Constancia;CD Sant Jordi;;
+Israel Youth League;18:30;Maccabi Tzur Shalom U19;SC Neve Yosef U19;;
+Belgium First Amateur Division;18:30;Gent II;KFC Mandel United;;
+Belgium First Amateur Division;18:30;KVV Thes Sport;Francs Borains;;
+Poland Ekstraklasa;19:00;Wisla Plock;Slask Wroclaw;-0.5;2.5 
+Poland I Liga;19:00;Stal Rzeszow;GKS Tychy;-0.5;3.0 
+Brazilian Matches;19:00;Fluminense SC;Santa Catarina Clube;;
+Belgium First Division B;19:00;KFCO Beerschot Wilrijk;Anderlecht II;-0.7;3.0 
+Peru Primera Division;19:00;Cesar Vallejo;Deportivo Municipal;-1.0;3.0 
+Spain Tercera Group 1;19:00;Arosa;Rapido Bouzas;-1.2;2.5 
+Serbia Super Liga;19:00;Vojvodina;FK Mladost Novi Sad;-1.7;2.5 
+Brazil U20 League;19:00;Coritiba U20;Sao Joseense U20;;
+Brazil U20 League;19:00;Figueirense U20;Chapecoense U20;;
+France Cup;19:00;Stade Bordelais;Bordeaux;;
+Portugal Campeonato Nacional;19:00;Rio Maior;Alcains;;
+Argentina Copa Santa Fe;19:00;CA 9 de Julio Rafaela;Argentino de Rosario;;
+Belgium First Amateur Division;19:00;La Louviere;KVK Ninove;;
+Belgium First Amateur Division;19:00;Rupel Boom FC;Dessel Sport;;
+Faroe Islands Cup;19:00;KÍ Klaksvík;Vikingur Gota;-0.7;3.0 
+Brazil Campeonato Mineiro U20;19:00;Atletico Mineiro U20;America MG U20;;
+Brazil Gaucho Women;19:00;SC Internacional Women;EC Juventude Women;;
+Brazil Copa Fares Lopes;19:00;Guarany de Sobral;Icasa;;
+Netherlands Derde Divisie;19:00;VV Baronie;VVSB;;
+Malta Challenge League;19:00;Qrendi FC;San Gwann FC;;
+Brazil Campeonato Potiguar 2;19:00;Alecrim;Club Laguna SAF;;
+Brazil Campeonato Potiguar 2;19:00;Mossoro;Atletico Potengi;;
+Spain Segunda Division RFEF Group 4;19:00;Xerez Deportivo FC;CD El Ejido;-0.5;2.0 
+Spain Segunda Federacion Women;19:00;Real Betis Women B;Madrid CFF Women B;-0.2;2.75
+Slovenia Prva Liga;19:15;NK Celje;NK Maribor;-0.5;2.5 
+Uruguay Segunda;19:15;Villa Espanola;CA Bella Vista;-0.5;2.0 
+Germany Bundesliga II;19:30;St Pauli;Darmstadt;0.0;2.75
+Romania Liga I;19:30;ACS Sepsi;CS U Craiova;-0.2;2.25
+Switzerland Super League;19:30;Servette;Lugano;-0.5;2.75
+Brazilian Matches;19:30;Arapongas EC;Patriotas FC;;
+Portugal U19 League;19:30;CD Mafra U19;UD Leiria U19;;
+Argentina Primera D Metropolitana;19:30;Defensores de Cambaceres;Sportivo Barracas;;
+Brazil Campeonato Goiano 2;19:30;Anapolina;Inhumas;;
+Brazil Campeonato Goiano 2;19:30;Aparecida GO;ASEEV;;
+Brazil Campeonato Goiano 2;19:30;Goiania;Cerrado EC;;
+Brazil Campeonato Goiano 2;19:30;Itumbiara;Jaragua EC;;
+England Premier League;19:45;Liverpool;Leeds;-1.7;3.5 
+Italy Serie A;19:45;Inter Milan;Sampdoria;-1.7;3.25
+Belgium First Division A;19:45;Club Brugge;KV Oostende;-1.7;3.25
+Republic of Ireland Play-Offs;19:45;Waterford FC;Treaty United FC;-1.2;3.25
+Spain Primera Liga;20:00;Valencia;Barcelona;+1.0;3.0 
+Spain Segunda;20:00;Burgos;UD Ibiza;-0.2;2.0 
+France Ligue 1;20:00;Strasbourg;Marseille;+0.2;2.5 
+Colombia Primera B;20:00;CD Real Santander;Atletico Huila;-0.5;2.25
+Argentina Torneo A;20:00;Club Villa Mitre;San Martin Formosa;;
+Chile Tercera;20:00;Provincial Ovalle;Deportes Union Companias;;
+U23 Africa Cup of Nations Qual;20:00;Senegal U23;Burkina Faso U23;;
+Argentina Torneo Regional Amateur;20:00;CS Guzman;Almirante Brown de Lules;;
+Netherlands Eredivisie;20:00;Go Ahead Eagles;Excelsior;-0.7;3.0 
+Portugal Primeira Liga;20:30;FC Arouca;Sporting;+1.2;2.5 
+Morocco GNF 1;20:30;Difaa El Jadida;JS Soualem;0.0;2.25
+Argentina Torneo Regional Amateur;20:30;CSD Presidente Derqui;Defensores Salto;;
+Mauritania Division 1;20:40;Douane;Kaedi FC;;
+Chile Tercera;21:00;Deportes Rengo;Deportes Colina;;
+Copa Libertadores;21:00;Flamengo;Athletico Paranaense;-1.0;2.25
+Brazil Copa Verde;21:00;Cuiaba;Costa Rica EC;;
+Cuba Campeonato Nacional;21:00;FC Cienfuegos;La Habana;;
+Cuba Campeonato Nacional;21:00;Las Tunas;Santiago de Cuba;;
+Cuba Campeonato Nacional;21:00;Villa Clara;Artemisa FC;;
+Cuba Campeonato Nacional;21:00;Camaguey;Guantanamo FC;;
+El Salvador Liga Feminina;21:00;CD Aguila Women;CD Platense Zacatecoluca Women;;
+El Salvador Liga Feminina;21:00;AD Chalatenango Women;AD Isidro Metapan Women;;
+Argentina Torneo Regional Amateur;21:00;CSD Fontana;Deportivo Qom;;
+Argentina Torneo Regional Amateur;21:00;Gimnasia y Esgrima Santa Fe;La Perla del Oeste;;
+Argentina Torneo Regional Amateur;21:00;Social Atletico Television;CDYF Las Mandarinas;;
+Panama Liga Prom;21:00;UMECIT;Panama City FC;;
+Peru Primera Division;21:30;Sport Huancayo;Sport Boys;-1.2;2.75
+Peru Primera Division;21:30;Academia Deportiva Cantolao;Ayacucho FC;+0.2;2.75
+Colombia Primera A;22:00;Envigado FC;Deportes Tolima;+0.2;2.0 
+Guatemala Liga Nacional;22:00;CSD Municipal;CSD Comunicaciones;-0.2;2.0 
+Mexico Segunda Division;22:00;U.A. Zacatecas;Aguacateros CDU;;
+El Salvador Reserves League;22:00;CD Dragon Reserves;Alianza FC Reserves;;
+Guatemala Liga Nacional Women;22:00;Antigua GFC Women;Deportivo Amatitlan Women;;
+Guatemala Liga Nacional Women;22:00;Marquense Women;Cobaneras FC Women;;
+El Salvador Liga Feminina;22:00;Santa Tecla Women;CD FAS Women;;
+Argentina Torneo Regional Amateur;22:00;Sportivo Norte;Ferrocarril Del Estado;;
+Argentina Torneo Regional Amateur;22:00;CD Libertad De Sunchales;Argentina Quilmes Rafaela;;
+Mexico Liga TDP;22:00;Progreso FC;Felinos 48 AC;;
+Chile Tercera;22:30;Provincial Osorno;Provincial Ranco;;
+Brazil Serie B;23:00;Chapecoense;Nautico Capibaribe;-1.5;2.5 
+Mexico Segunda Division;23:00;Pioneros de Cancun;Zitacuaro CF;;
+USA USL League One;23:00;Richmond Kickers;Chattanooga Red Wolves;-0.2;2.5 
+Mexico Liga de Expansion;23:00;Club Celaya;Alacranes de Durango;-0.7;2.5 
+Brazil Serie A;23:30;Goias;Corinthians;+0.2;2.0 
+Argentina Torneo Regional Amateur;23:30;Racing Eduardo Castex;All Boys de Trenel;;
+Mexico Segunda Division;00:00;Cafetaleros de Chiapas;CF Reboceros La Piedad;;
+Brazil Copa Verde;00:00;Paysandu;Humaita;;
+Chile Primera Division;00:00;Cobresal;Palestino;-0.2;2.75
+Colombia Primera A;00:05;Deportivo Cali;Patriotas FC;-0.7;2.25
+USA USL Championship;00:30;Louisville City FC;Pittsburgh Riverhounds;-1.0;2.75
+Honduras Liga Nacional;01:00;Real Espana;CD Vida;-0.5;2.5 
+Honduras Liga Nacional;01:00;CD Victoria;CD Marathon;+0.5;3.0 
+New Zealand Football Championship;01:00;Birkenhead United;Cashmere Technical;-0.2;3.75
+Nicaragua Apertura;01:00;Real Esteli;Managua FC;;
+Mexico Segunda Division;01:00;Tampico Madero;Sporting Canamy;;
+USA NWSL Women;01:00;Portland Thorns Women;KC Current Women;;
+Brazil Copa Verde;01:00;Luverdense;Brasiliense;;
+USA USL Championship;01:00;Colorado Switchbacks FC;Sacramento Republic;-0.2;2.5 
+Mexico Liga de Expansion;01:00;Atlante;Mineros de Zacatecas;-1.0;2.5 
+Argentina Nacional B;01:10;CA Estudiantes Caseros;Gimnasia Mendoza;-0.2;1.75
+Colombia Primera B;01:10;Tigres FC;Deportes Quindio;0.0;2.25
+New Zealand Football Championship;01:30;Christchurch United;Melville United;-0.5;3.5 
+New Zealand Premier League Women;01:30;Auckland United Women;Central Football Women;;
+New Zealand Premier League Women;01:30;Southern United Women;Northern Rovers Women;;
+USA USL Championship;01:30;Memphis 901 FC;Tampa Bay Rowdies;-0.2;2.75
+Guatemala Liga Nacional;01:00;Xelaju;Deportivo Mixco;-1.2;2.25
+Mexico Segunda Division;01:00;Los Cabos United;Chihuahua FC;;
+USA NISA;01:00;California Utd Strikers;ASC San Diego;;
+Japan J3-League;03:00;Kataller Toyama;FC Imabari;-0.2;2.5 
+Japan J3-League;03:00;Azul Claro Numazu;Vanraure Hachinohe;-0.2;2.25
+Japan J3-League;03:00;Gainare Tottori;Fujieda MYFC;+0.5;2.75
+Japan J3-League;03:00;Tegevajaro Miyazaki;Iwaki SC;+1.2;2.75
+Japan J3-League;03:00;Kagoshima United;Ehime FC;-0.7;2.5 
+Japan Football League;03:00;Verspah Oita;FC Osaka;;
+Japan Football League;03:00;FC Tiamo Hirakata;Suzuka Point Getters;;
+Japan Football League;03:00;Veertien Mie;Kochi United;;
+Japan Football League;03:00;Honda Lock;Reinmeer Aomori;;
+Australia A-League;03:00;Adelaide United;Perth Glory;-0.7;2.75
+Japan Women Empowerment League;03:00;Inac Leonessa Women;JEF Utd Chiba Women;;
+Japan J2-League;03:05;Roasso Kumamoto;Oita;-0.2;2.5 
+Japan J3-League;03:05;Matsumoto Y FC;Nagano Parceiro;-0.5;2.25
+Japan J2-League;04:00;Fagiano Okayama;Montedio Yamagata;-0.2;2.25
+Japan J3-League;04:00;Sagamihara;FC Gifu;0.0;2.5 
+Japan J3-League;04:00;Kamatamare Sanuki;Giravanz Kitakyushu;0.0;2.25
+Mongolia Premier League;04:00;Khovd;Tuv Buganuud;;
+Japan Women Empowerment League;04:00;NTV Beleza Women;Urawa Red Diamonds Women;;
+Japan Women Empowerment League;04:00;Sanfrecce Hiroshima Women;Nojima Women;;
